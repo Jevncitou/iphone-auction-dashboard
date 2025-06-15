@@ -1,26 +1,52 @@
-// src/components/Chart.jsx
-import {
-  LineChart, Line, XAxis, YAxis, Tooltip, CartesianGrid, ResponsiveContainer
-} from 'recharts';
+import React, { useState, useEffect } from "react";
 
-export default function Chart({ data, title = "Price Trend" }) {
-  if (!data || data.length === 0) {
-    return <p style={{ color: '#ccc', textAlign: 'center' }}>No chart data available.</p>;
+const Chart = ({ chartFile, selectedGrade = "Grade_A" }) => {
+  const [iframeError, setIframeError] = useState(false);
+
+  if (!chartFile) {
+    return <div style={{ color: "white", textAlign: "center" }}>Chart not available</div>;
   }
 
-  return (
-    <div style={{ width: '100%', height: 400 }}>
-      <h3 style={{ color: '#fff', marginBottom: '1rem', textAlign: 'center' }}>{title}</h3>
+  const chartPath = `/Listings/Charts_By_Grade/${selectedGrade}/${chartFile}`;
 
-      <ResponsiveContainer width="100%" height="100%">
-        <LineChart data={data}>
-          <CartesianGrid strokeDasharray="3 3" stroke="#333" />
-          <XAxis dataKey="month" stroke="#aaa" />
-          <YAxis stroke="#aaa" />
-          <Tooltip contentStyle={{ backgroundColor: '#222', borderColor: '#444', color: '#fff' }} />
-          <Line type="monotone" dataKey="price" stroke="#00d8ff" strokeWidth={2} dot={{ r: 3 }} />
-        </LineChart>
-      </ResponsiveContainer>
+  useEffect(() => {
+    setIframeError(false); // reset error on new file load
+  }, [chartFile, selectedGrade]);
+
+  return (
+    <div style={{ width: "100%", height: "100%", padding: "1rem", boxSizing: "border-box" }}>
+      {iframeError ? (
+        <div
+          style={{
+            color: "white",
+            textAlign: "center",
+            border: "1px solid #444",
+            borderRadius: "12px",
+            backgroundColor: "#1a1a1a",
+            padding: "2rem"
+          }}
+        >
+          📉 No lots sold for this model on <b>{selectedGrade.replace("_", " ")}</b>
+        </div>
+      ) : (
+        <iframe
+          src={chartPath}
+          title="Auction Chart"
+          width="100%"
+          height="600px"
+          style={{
+            border: "1px solid #444",
+            borderRadius: "12px",
+            backgroundColor: "#1a1a1a",
+            boxShadow: "0 0 10px rgba(0,0,0,0.5)",
+          }}
+          sandbox="allow-scripts allow-same-origin"
+          onLoad={() => console.log(`✅ Chart loaded: ${chartPath}`)}
+          onError={() => setIframeError(true)}
+        />
+      )}
     </div>
   );
-}
+};
+
+export default Chart;

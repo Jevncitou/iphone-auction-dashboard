@@ -1,52 +1,45 @@
 import React from "react";
-import iphoneGeneric from "../assets/images/iPhone_Generic.png";
+import iPhoneGeneric from "../assets/images/iPhone_Generic.png";
 
-const ProductCard = ({ product, onClick }) => {
-  const handleImgError = (e) => {
-    e.target.onerror = null;
-    e.target.src = iphoneGeneric; // fallback again in case something fails
-  };
+const ProductCard = ({ model, onClick }) => {
+  const fallbackImage = iPhoneGeneric;
 
   return (
     <div
-      className="product-card"
+      className="bg-zinc-800 rounded-xl shadow-md p-4 hover:shadow-lg cursor-pointer transition duration-300"
       onClick={onClick}
       style={{
-        width: "140px",
-        height: "160px",
-        backgroundColor: "#2b2b2b",
-        borderRadius: "12px",
-        padding: "12px",
-        cursor: "pointer",
-        textAlign: "center",
+        width: "150px",
+        height: "180px",
         display: "flex",
         flexDirection: "column",
-        justifyContent: "space-between",
-        transition: "transform 0.2s",
+        alignItems: "center",
+        justifyContent: "center",
       }}
     >
       <img
-        src={iphoneGeneric}
-        onError={handleImgError}
-        alt={product.name}
+        src={model.image || fallbackImage}
+        alt={model.name}
+        onError={(e) => {
+          e.target.onerror = null;
+          e.target.src = fallbackImage;
+        }}
         style={{
-          width: "100%",
-          height: "100px",
+          width: "80px",
+          height: "80px",
           objectFit: "contain",
-          marginBottom: "8px",
-          borderRadius: "8px",
-          backgroundColor: "#1a1a1a", // fallback bg
+          marginBottom: "10px",
         }}
       />
-      <div
+      <h2
         style={{
-          color: "#ccc",
-          fontSize: "0.85rem",
-          overflowWrap: "break-word",
+          fontSize: "14px",
+          color: "#ddd",
+          textAlign: "center",
         }}
       >
-        {product.name}
-      </div>
+        {model.name}
+      </h2>
     </div>
   );
 };
