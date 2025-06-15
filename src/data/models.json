@@ -1,60 +1,158 @@
 [
-  { "name": "iPhone 6S 64GB", "image": "iPhone_Generic.png", "chart": "iPhone_6S_64GB.html" },
-  { "name": "iPhone 7 256GB", "image": "iPhone_Generic.png", "chart": "iPhone_7_256GB.html" },
-  { "name": "iPhone 7 32GB", "image": "iPhone_Generic.png", "chart": "iPhone_7_32GB.html" },
-  { "name": "iPhone 7 128GB", "image": "iPhone_Generic.png", "chart": "iPhone_7_128GB.html" },
-  { "name": "iPhone 8 64GB", "image": "iPhone_Generic.png", "chart": "iPhone_8_64GB.html" },
-  { "name": "iPhone 8 Plus 64GB", "image": "iPhone_Generic.png", "chart": "iPhone_8_Plus_64GB.html" },
-  { "name": "iPhone 11 64GB", "image": "iPhone_Generic.png", "chart": "iPhone_11_64GB.html" },
-  { "name": "iPhone 11 128GB", "image": "iPhone_Generic.png", "chart": "iPhone_11_128GB.html" },
-  { "name": "iPhone 11 256GB", "image": "iPhone_Generic.png", "chart": "iPhone_11_256GB.html" },
-  { "name": "iPhone 11 Pro 64GB", "image": "iPhone_Generic.png", "chart": "iPhone_11_Pro_64GB.html" },
-  { "name": "iPhone 11 Pro 256GB", "image": "iPhone_Generic.png", "chart": "iPhone_11_Pro_256GB.html" },
-  { "name": "iPhone 11 Pro 512GB", "image": "iPhone_Generic.png", "chart": "iPhone_11_Pro_512GB.html" },
-  { "name": "iPhone 11 Pro Max 64GB", "image": "iPhone_Generic.png", "chart": "iPhone_11_Pro_Max_64GB.html" },
-  { "name": "iPhone 11 Pro Max 256GB", "image": "iPhone_Generic.png", "chart": "iPhone_11_Pro_Max_256GB.html" },
-  { "name": "iPhone 11 Pro Max 512GB", "image": "iPhone_Generic.png", "chart": "iPhone_11_Pro_Max_512GB.html" },
-  { "name": "iPhone 12 64GB", "image": "iPhone_Generic.png", "chart": "iPhone_12_64GB.html" },
-  { "name": "iPhone 12 128GB", "image": "iPhone_Generic.png", "chart": "iPhone_12_128GB.html" },
-  { "name": "iPhone 12 256GB", "image": "iPhone_Generic.png", "chart": "iPhone_12_256GB.html" },
-  { "name": "iPhone 12 512GB", "image": "iPhone_Generic.png", "chart": "iPhone_12_512GB.html" },
-  { "name": "iPhone 12 Mini 64GB", "image": "iPhone_Generic.png", "chart": "iPhone_12_Mini_64GB.html" },
-  { "name": "iPhone 12 Mini 128GB", "image": "iPhone_Generic.png", "chart": "iPhone_12_Mini_128GB.html" },
-  { "name": "iPhone 12 Mini 256GB", "image": "iPhone_Generic.png", "chart": "iPhone_12_Mini_256GB.html" },
-  { "name": "iPhone 12 Mini 512GB", "image": "iPhone_Generic.png", "chart": "iPhone_12_Mini_512GB.html" },
-  { "name": "iPhone 12 Pro 128GB", "image": "iPhone_Generic.png", "chart": "iPhone_12_Pro_128GB.html" },
-  { "name": "iPhone 12 Pro 256GB", "image": "iPhone_Generic.png", "chart": "iPhone_12_Pro_256GB.html" },
-  { "name": "iPhone 12 Pro 512GB", "image": "iPhone_Generic.png", "chart": "iPhone_12_Pro_512GB.html" },
-  { "name": "iPhone 12 Pro Max 128GB", "image": "iPhone_Generic.png", "chart": "iPhone_12_Pro_Max_128GB.html" },
-  { "name": "iPhone 12 Pro Max 256GB", "image": "iPhone_Generic.png", "chart": "iPhone_12_Pro_Max_256GB.html" },
-  { "name": "iPhone 12 Pro Max 512GB", "image": "iPhone_Generic.png", "chart": "iPhone_12_Pro_Max_512GB.html" },
-  { "name": "iPhone 13 1TB", "image": "iPhone_Generic.png", "chart": "iPhone_13_1TB.html" },
-  { "name": "iPhone 13 128GB", "image": "iPhone_Generic.png", "chart": "iPhone_13_128GB.html" },
-  { "name": "iPhone 13 256GB", "image": "iPhone_Generic.png", "chart": "iPhone_13_256GB.html" },
-  { "name": "iPhone 13 512GB", "image": "iPhone_Generic.png", "chart": "iPhone_13_512GB.html" },
-  { "name": "iPhone 13 Mini 128GB", "image": "iPhone_Generic.png", "chart": "iPhone_13_Mini_128GB.html" },
-  { "name": "iPhone 13 Mini 256GB", "image": "iPhone_Generic.png", "chart": "iPhone_13_Mini_256GB.html" },
-  { "name": "iPhone 13 Mini 512GB", "image": "iPhone_Generic.png", "chart": "iPhone_13_Mini_512GB.html" },
-  { "name": "iPhone 13 Pro 1TB", "image": "iPhone_Generic.png", "chart": "iPhone_13_Pro_1TB.html" },
-  { "name": "iPhone 13 Pro 128GB", "image": "iPhone_Generic.png", "chart": "iPhone_13_Pro_128GB.html" },
-  { "name": "iPhone 13 Pro 256GB", "image": "iPhone_Generic.png", "chart": "iPhone_13_Pro_256GB.html" },
-  { "name": "iPhone 13 Pro 512GB", "image": "iPhone_Generic.png", "chart": "iPhone_13_Pro_512GB.html" },
-  { "name": "iPhone 13 Pro Max 1TB", "image": "iPhone_Generic.png", "chart": "iPhone_13_Pro_Max_1TB.html" },
-  { "name": "iPhone 13 Pro Max 128GB", "image": "iPhone_Generic.png", "chart": "iPhone_13_Pro_Max_128GB.html" },
-  { "name": "iPhone 13 Pro Max 256GB", "image": "iPhone_Generic.png", "chart": "iPhone_13_Pro_Max_256GB.html" },
-  { "name": "iPhone 13 Pro Max 512GB", "image": "iPhone_Generic.png", "chart": "iPhone_13_Pro_Max_512GB.html" },
-  { "name": "iPhone 14 128GB", "image": "iPhone_Generic.png", "chart": "iPhone_14_128GB.html" },
-  { "name": "iPhone 14 256GB", "image": "iPhone_Generic.png", "chart": "iPhone_14_256GB.html" },
-  { "name": "iPhone 14 512GB", "image": "iPhone_Generic.png", "chart": "iPhone_14_512GB.html" },
-  { "name": "iPhone 14 Plus 128GB", "image": "iPhone_Generic.png", "chart": "iPhone_14_Plus_128GB.html" },
-  { "name": "iPhone 14 Plus 256GB", "image": "iPhone_Generic.png", "chart": "iPhone_14_Plus_256GB.html" },
-  { "name": "iPhone 14 Plus 512GB", "image": "iPhone_Generic.png", "chart": "iPhone_14_Plus_512GB.html" },
-  { "name": "iPhone 14 Pro 1TB", "image": "iPhone_Generic.png", "chart": "iPhone_14_Pro_1TB.html" },
-  { "name": "iPhone 14 Pro 128GB", "image": "iPhone_Generic.png", "chart": "iPhone_14_Pro_128GB.html" },
-  { "name": "iPhone 14 Pro 256GB", "image": "iPhone_Generic.png", "chart": "iPhone_14_Pro_256GB.html" },
-  { "name": "iPhone 14 Pro 512GB", "image": "iPhone_Generic.png", "chart": "iPhone_14_Pro_512GB.html" },
-  { "name": "iPhone 14 Pro Max 1TB", "image": "iPhone_Generic.png", "chart": "iPhone_14_Pro_Max_1TB.html" },
-  { "name": "iPhone 14 Pro Max 128GB", "image": "iPhone_Generic.png", "chart": "iPhone_14_Pro_Max_128GB.html" },
-  { "name": "iPhone 14 Pro Max 256GB", "image": "iPhone_Generic.png", "chart": "iPhone_14_Pro_Max_256GB.html" },
-  { "name": "iPhone 14 Pro Max 512GB", "image": "iPhone_Generic.png", "chart": "iPhone_14_Pro_Max_512GB.html" }
+  {
+    "name": "iPhone 6S 64GB",
+    "chart": "iPhone_6S_64GB.html"
+  },
+  {
+    "name": "iPhone 7 256GB",
+    "chart": "iPhone_7_256GB.html"
+  },
+  {
+    "name": "iPhone 7 32GB",
+    "chart": "iPhone_7_32GB.html"
+  },
+  {
+    "name": "iPhone 7 128GB",
+    "chart": "iPhone_7_128GB.html"
+  },
+  {
+    "name": "iPhone 8 64GB",
+    "chart": "iPhone_8_64GB.html"
+  },
+  {
+    "name": "iPhone 8 Plus 64GB",
+    "chart": "iPhone_8_Plus_64GB.html"
+  },
+  {
+    "name": "iPhone 11 64GB",
+    "chart": "iPhone_11_64GB.html"
+  },
+  {
+    "name": "iPhone 11 128GB",
+    "chart": "iPhone_11_128GB.html"
+  },
+  {
+    "name": "iPhone 11 256GB",
+    "chart": "iPhone_11_256GB.html"
+  },
+  {
+    "name": "iPhone 11 Pro 64GB",
+    "chart": "iPhone_11_Pro_64GB.html"
+  },
+  {
+    "name": "iPhone 11 Pro 256GB",
+    "chart": "iPhone_11_Pro_256GB.html"
+  },
+  {
+    "name": "iPhone 11 Pro 512GB",
+    "chart": "iPhone_11_Pro_512GB.html"
+  },
+  {
+    "name": "iPhone 11 Pro Max 64GB",
+    "chart": "iPhone_11_Pro_Max_64GB.html"
+  },
+  {
+    "name": "iPhone 11 Pro Max 256GB",
+    "chart": "iPhone_11_Pro_Max_256GB.html"
+  },
+  {
+    "name": "iPhone 11 Pro Max 512GB",
+    "chart": "iPhone_11_Pro_Max_512GB.html"
+  },
+  {
+    "name": "iPhone 12 64GB",
+    "chart": "iPhone_12_64GB.html"
+  },
+  {
+    "name": "iPhone 12 128GB",
+    "chart": "iPhone_12_128GB.html"
+  },
+  {
+    "name": "iPhone 12 256GB",
+    "chart": "iPhone_12_256GB.html"
+  },
+  {
+    "name": "iPhone 12 512GB",
+    "chart": "iPhone_12_512GB.html"
+  },
+  {
+    "name": "iPhone 12 Mini 64GB",
+    "chart": "iPhone_12_Mini_64GB.html"
+  },
+  {
+    "name": "iPhone 12 Mini 128GB",
+    "chart": "iPhone_12_Mini_128GB.html"
+  },
+  {
+    "name": "iPhone 12 Mini 256GB",
+    "chart": "iPhone_12_Mini_256GB.html"
+  },
+  {
+    "name": "iPhone 12 Mini 512GB",
+    "chart": "iPhone_12_Mini_512GB.html"
+  },
+  {
+    "name": "iPhone 12 Pro 128GB",
+    "chart": "iPhone_12_Pro_128GB.html"
+  },
+  {
+    "name": "iPhone 12 Pro 256GB",
+    "chart": "iPhone_12_Pro_256GB.html"
+  },
+  {
+    "name": "iPhone 12 Pro 512GB",
+    "chart": "iPhone_12_Pro_512GB.html"
+  },
+  {
+    "name": "iPhone 12 Pro Max 128GB",
+    "chart": "iPhone_12_Pro_Max_128GB.html"
+  },
+  {
+    "name": "iPhone 12 Pro Max 256GB",
+    "chart": "iPhone_12_Pro_Max_256GB.html"
+  },
+  {
+    "name": "iPhone 12 Pro Max 512GB",
+    "chart": "iPhone_12_Pro_Max_512GB.html"
+  },
+  {
+    "name": "iPhone 13 128GB",
+    "chart": "iPhone_13_128GB.html"
+  },
+  {
+    "name": "iPhone 13 256GB",
+    "chart": "iPhone_13_256GB.html"
+  },
+  {
+    "name": "iPhone 13 512GB",
+    "chart": "iPhone_13_512GB.html"
+  },
+  {
+    "name": "iPhone 13 Mini 128GB",
+    "chart": "iPhone_13_Mini_128GB.html"
+  },
+  {
+    "name": "iPhone 13 Mini 256GB",
+    "chart": "iPhone_13_Mini_256GB.html"
+  },
+  {
+    "name": "iPhone 13 Mini 512GB",
+    "chart": "iPhone_13_Mini_512GB.html"
+  },
+  {
+    "name": "iPhone 13 Pro 1TB",
+    "chart": "iPhone_13_Pro_1TB.html"
+  },
+  {
+    "name": "iPhone 13 Pro 128GB",
+    "chart": "iPhone_13_Pro_128GB.html"
+  },
+  {
+    "name": "iPhone 13 Pro 256GB",
+    "chart": "iPhone_13_Pro_256GB.html"
+  },
+  {
+    "name": "iPhone 13 Pro 512GB",
+    "chart": "iPhone_13_Pro_512GB.html"
+  }
 ]

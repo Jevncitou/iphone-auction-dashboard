@@ -1,27 +1,54 @@
-import React, { useState } from 'react';
-import defaultImage from '../assets/default.png';
+import React from "react";
+import iphoneGeneric from "../assets/images/iPhone_Generic.png";
 
-export default function ProductCard({ model, onClick }) {
-  const [imageError, setImageError] = useState(false);
-  
-  // Handle image loading errors
-  const handleImageError = () => {
-    console.log(`Failed to load image for ${model.name}`);
-    setImageError(true);
+const ProductCard = ({ product, onClick }) => {
+  const handleImgError = (e) => {
+    e.target.onerror = null;
+    e.target.src = iphoneGeneric; // fallback again in case something fails
   };
 
   return (
     <div
-      className="hover:shadow-lg transition-all duration-200 bg-white rounded-xl p-4 cursor-pointer text-center"
+      className="product-card"
       onClick={onClick}
+      style={{
+        width: "140px",
+        height: "160px",
+        backgroundColor: "#2b2b2b",
+        borderRadius: "12px",
+        padding: "12px",
+        cursor: "pointer",
+        textAlign: "center",
+        display: "flex",
+        flexDirection: "column",
+        justifyContent: "space-between",
+        transition: "transform 0.2s",
+      }}
     >
       <img
-        src={imageError ? defaultImage : `/assets/${model.image}`}
-        alt={model.name}
-        className="w-full h-40 object-contain mb-3"
-        onError={handleImageError}
+        src={iphoneGeneric}
+        onError={handleImgError}
+        alt={product.name}
+        style={{
+          width: "100%",
+          height: "100px",
+          objectFit: "contain",
+          marginBottom: "8px",
+          borderRadius: "8px",
+          backgroundColor: "#1a1a1a", // fallback bg
+        }}
       />
-      <h3 className="text-base font-semibold text-gray-800">{model.name}</h3>
+      <div
+        style={{
+          color: "#ccc",
+          fontSize: "0.85rem",
+          overflowWrap: "break-word",
+        }}
+      >
+        {product.name}
+      </div>
     </div>
   );
-}
+};
+
+export default ProductCard;
