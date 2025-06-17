@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/chart",
+      "destination": "/index.html"
+    }
+  ]
+}
