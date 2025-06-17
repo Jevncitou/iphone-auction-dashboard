@@ -1,24 +1,18 @@
 import React, { useEffect, useState } from 'react';
+import Chart from './Chart';
 
 export default function ProductModal({ model, onClose }) {
-  const [isLoading, setIsLoading] = useState(true);
-  const [chartError, setChartError] = useState(false);
-  
-  // Handle ESC key to close modal
-  useEffect(() => {
-    const handleEsc = (event) => {
-      if (event.key === 'Escape') onClose();
-    };
-    
-    document.addEventListener('keydown', handleEsc);
-    return () => document.removeEventListener('keydown', handleEsc);
-  }, [onClose]);
-  
-  // Prevent body scrolling when modal is open
+  const [selectedVariant, setSelectedVariant] = useState(null);
+
   useEffect(() => {
     document.body.style.overflow = 'hidden';
-    return () => { document.body.style.overflow = 'auto'; };
-  }, []);
+    const handleEsc = (e) => e.key === 'Escape' && onClose();
+    document.addEventListener('keydown', handleEsc);
+    return () => {
+      document.removeEventListener('keydown', handleEsc);
+      document.body.style.overflow = 'auto';
+    };
+  }, [onClose]);
 
   if (!model) return null;
 
@@ -27,28 +21,43 @@ export default function ProductModal({ model, onClose }) {
       <div style={styles.modal} onClick={(e) => e.stopPropagation()}>
         <h2 style={styles.title}>{model.name}</h2>
 
-        {isLoading && <div style={styles.loading}>Loading chart data...</div>}
-        {chartError && <div style={styles.error}>Failed to load chart</div>}
-        
-        <iframe
-          src={`/charts/${model.chart}`}
-          width="1000"
-          height="600"
-          style={{
-            ...styles.chart,
-            display: isLoading || chartError ? 'none' : 'block'
-          }}
-          title={`${model.name} Chart`}
-          onLoad={() => setIsLoading(false)}
-          onError={() => {
-            setIsLoading(false);
-            setChartError(true);
-          }}
-        />
+        {/* Show buttons for each variant */}
+        <div style={{ display: 'flex', justifyContent: 'center', flexWrap: 'wrap', gap: '0.5rem' }}>
+          {model.variants.map((variant) => (
+            <button
+              key={variant.name}
+              onClick={() => setSelectedVariant(variant)}
+              style={{
+                padding: '6px 14px',
+                marginBottom: '0.5rem',
+                backgroundColor: '#444',
+                color: 'white',
+                border: 'none',
+                borderRadius: 8,
+                cursor: 'pointer',
+              }}
+            >
+              {variant.name}
+            </button>
+          ))}
+        </div>
 
-        <button onClick={onClose} style={styles.closeButton}>
-          Close
-        </button>
+        {selectedVariant && (
+          <>
+            <h3 style={{ color: 'white', marginTop: '1rem' }}>{selectedVariant.name}</h3>
+
+            {/* Only using one grade for now, like 'B'. You can add dropdown later */}
+            {selectedVariant.grades?.length > 0 ? (
+              <Chart chartFile={selectedVariant.grades.find(g => g.grade === 'B')?.chart} />
+            ) : (
+              <div style={{ color: "white", textAlign: "center", padding: "2rem 0" }}>
+                Chart not available
+              </div>
+            )}
+          </>
+        )}
+
+        <button onClick={onClose} style={styles.closeButton}>Close</button>
       </div>
     </div>
   );
@@ -77,12 +86,6 @@ const styles = {
     color: '#fff',
     marginBottom: 20,
   },
-  chart: {
-    border: 'none',
-    borderRadius: 8,
-    boxShadow: '0 0 10px rgba(255,255,255,0.1)',
-    maxWidth: '100%',
-  },
   closeButton: {
     marginTop: 20,
     padding: '10px 20px',
@@ -93,14 +96,4 @@ const styles = {
     cursor: 'pointer',
     fontWeight: 500,
   },
-  loading: {
-    color: '#fff',
-    padding: '40px 0',
-    fontSize: '1.2rem',
-  },
-  error: {
-    color: '#ff6b6b',
-    padding: '40px 0',
-    fontSize: '1.2rem',
-  }
 };

@@ -1,34 +1,36 @@
 import { useState } from "react";
 import models from "../data/models.json";
-import Header from "../components/Header";
+import logo from "../assets/images/Albi_Logo_WhiteFill_TransparentBG.png";
 import fallbackImage from "../assets/images/iPhone_Generic.png";
-import Chart from "../components/Chart"; // ✅ Import your Chart component
 
 export default function Dashboard() {
   const [selectedGroup, setSelectedGroup] = useState(null);
-  const [selectedVariant, setSelectedVariant] = useState(null);
 
   const handleGroupClick = (group) => {
     setSelectedGroup(group);
-    setSelectedVariant(null);
   };
 
   const handleClose = () => {
     setSelectedGroup(null);
-    setSelectedVariant(null);
+  };
+
+  const handleVariantClick = (variant) => {
+    const defaultGrade = variant.grades?.[0];
+    if (defaultGrade?.chart) {
+      window.location.href = `/chart?file=${encodeURIComponent(defaultGrade.chart)}`;
+    }
   };
 
   return (
     <div style={styles.wrapper}>
-      <Header />
+      <div style={styles.header}>
+        <span style={styles.title}>AlbiLogistics</span>
+        <img src={logo} alt="Albi Logo" style={styles.logo} />
+      </div>
 
       <div style={styles.grid}>
         {models.map((group, index) => (
-          <div
-            key={index}
-            style={styles.card}
-            onClick={() => handleGroupClick(group)}
-          >
+          <div key={index} style={styles.card} onClick={() => handleGroupClick(group)}>
             <img
               src={fallbackImage}
               alt={group.model}
@@ -47,29 +49,19 @@ export default function Dashboard() {
         <div style={styles.modalOverlay}>
           <div style={styles.modalContent}>
             <h2 style={styles.modalTitle}>{selectedGroup.model}</h2>
+            <h4 style={styles.subTitle}>Capacities</h4>
 
             <div style={styles.variantList}>
               {selectedGroup.variants.map((variant, idx) => (
                 <button
                   key={idx}
-                  style={{
-                    ...styles.variantBtn,
-                    backgroundColor:
-                      selectedVariant?.name === variant.name ? "#666" : "#444",
-                  }}
-                  onClick={() => setSelectedVariant(variant)}
+                  style={styles.variantBtn}
+                  onClick={() => handleVariantClick(variant)}
                 >
                   {variant.name}
                 </button>
               ))}
             </div>
-
-            {selectedVariant && (
-              <div style={styles.chartContainer}>
-                <h4 style={styles.chartTitle}>{selectedVariant.name}</h4>
-                <Chart chartFile={selectedVariant.chart} /> {/* ✅ Use Chart component */}
-              </div>
-            )}
 
             <button style={styles.closeBtn} onClick={handleClose}>
               Close
@@ -86,6 +78,21 @@ const styles = {
     backgroundColor: "#1a1a1a",
     minHeight: "100vh",
     paddingBottom: "3rem",
+  },
+  header: {
+    display: "flex",
+    justifyContent: "space-between",
+    padding: "1rem 2rem",
+    alignItems: "center",
+  },
+  title: {
+    fontSize: "1.8rem",
+    fontWeight: 700,
+    color: "#fff",
+  },
+  logo: {
+    height: 40,
+    objectFit: "contain",
   },
   grid: {
     display: "flex",
@@ -107,7 +114,6 @@ const styles = {
     flexDirection: "column",
     alignItems: "center",
     justifyContent: "center",
-    transition: "transform 0.2s ease-in-out",
   },
   image: {
     width: 80,
@@ -144,8 +150,13 @@ const styles = {
   },
   modalTitle: {
     color: "#fff",
-    marginBottom: 20,
-    fontSize: "1.5rem",
+    marginBottom: 8,
+    fontSize: "1.6rem",
+  },
+  subTitle: {
+    color: "#aaa",
+    fontWeight: 500,
+    marginBottom: 16,
   },
   variantList: {
     display: "flex",
@@ -162,15 +173,6 @@ const styles = {
     borderRadius: 6,
     cursor: "pointer",
     fontWeight: 500,
-  },
-  chartContainer: {
-    marginTop: "1rem",
-    textAlign: "center",
-    color: "#fff",
-  },
-  chartTitle: {
-    marginBottom: "1rem",
-    fontSize: "1.1rem",
   },
   closeBtn: {
     marginTop: 20,

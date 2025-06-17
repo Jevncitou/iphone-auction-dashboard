@@ -1,69 +1,157 @@
 [
   {
-    "model": "iPhone 6S",
+    "model": "Iphone Se ,",
     "variants": [
       {
-        "name": "iPhone 6S 64GB",
+        "name": "Iphone Se , 128GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_6S_64GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_6S_64GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_6S_64GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_6S_64GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/Iphone_Se_,_128GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/Iphone_Se_,_128GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/Iphone_Se_,_128GB.html"
+          }
+        ]
+      },
+      {
+        "name": "Iphone Se , 256GB",
+        "grades": [
+          {
+            "grade": "A",
+            "chart": "Grade_A/Iphone_Se_,_256GB.html"
+          }
+        ]
+      },
+      {
+        "name": "Iphone Se , 64GB",
+        "grades": [
+          {
+            "grade": "A",
+            "chart": "Grade_A/Iphone_Se_,_64GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/Iphone_Se_,_64GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/Iphone_Se_,_64GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/Iphone_Se_,_64GB.html"
+          }
         ]
       }
     ]
   },
   {
-    "model": "iPhone 7",
+    "model": "Iphone Se",
     "variants": [
       {
-        "name": "iPhone 7 32GB",
+        "name": "Iphone Se 256GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_7_32GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_7_32GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_7_32GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_7_32GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/Iphone_Se_256GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/Iphone_Se_256GB.html"
+          }
         ]
       },
       {
-        "name": "iPhone 7 128GB",
+        "name": "Iphone Se 64GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_7_128GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_7_128GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_7_128GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_7_128GB.html" }
-        ]
-      },
-      {
-        "name": "iPhone 7 256GB",
-        "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_7_256GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_7_256GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_7_256GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_7_256GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/Iphone_Se_64GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/Iphone_Se_64GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/Iphone_Se_64GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/Iphone_Se_64GB.html"
+          }
         ]
       }
     ]
   },
   {
-    "model": "iPhone 8",
+    "model": "Iphone X",
     "variants": [
       {
-        "name": "iPhone 8 64GB",
+        "name": "Iphone X 64GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_8_64GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_8_64GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_8_64GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_8_64GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/Iphone_X_64GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/Iphone_X_64GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/Iphone_X_64GB.html"
+          }
         ]
       },
       {
-        "name": "iPhone 8 Plus 64GB",
+        "name": "Iphone X 256GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_8_Plus_64GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_8_Plus_64GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_8_Plus_64GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_8_Plus_64GB.html" }
+          {
+            "grade": "B",
+            "chart": "Grade_B/Iphone_X_256GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/Iphone_X_256GB.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "Iphone Xs Max",
+    "variants": [
+      {
+        "name": "Iphone Xs Max 512GB",
+        "grades": [
+          {
+            "grade": "A",
+            "chart": "Grade_A/Iphone_Xs_Max_512GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/Iphone_Xs_Max_512GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/Iphone_Xs_Max_512GB.html"
+          }
+        ]
+      },
+      {
+        "name": "Iphone Xs Max 256GB",
+        "grades": [
+          {
+            "grade": "B",
+            "chart": "Grade_B/Iphone_Xs_Max_256GB.html"
+          }
         ]
       }
     ]
@@ -74,28 +162,48 @@
       {
         "name": "iPhone 11 64GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_11_64GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_11_64GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_11_64GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_11_64GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_11_64GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_11_64GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_11_64GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_11_64GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 11 128GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_11_128GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_11_128GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_11_128GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_11_128GB.html" }
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_11_128GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_11_128GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 11 256GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_11_256GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_11_256GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_11_256GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_11_256GB.html" }
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_11_256GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_11_256GB.html"
+          }
         ]
       }
     ]
@@ -104,30 +212,42 @@
     "model": "iPhone 11 Pro",
     "variants": [
       {
-        "name": "iPhone 11 Pro 64GB",
+        "name": "iPhone 11 Pro 512GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_11_Pro_64GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_11_Pro_64GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_11_Pro_64GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_11_Pro_64GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_11_Pro_512GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_11_Pro_512GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_11_Pro_512GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 11 Pro 256GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_11_Pro_256GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_11_Pro_256GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_11_Pro_256GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_11_Pro_256GB.html" }
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_11_Pro_256GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_11_Pro_256GB.html"
+          }
         ]
       },
       {
-        "name": "iPhone 11 Pro 512GB",
+        "name": "iPhone 11 Pro 64GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_11_Pro_512GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_11_Pro_512GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_11_Pro_512GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_11_Pro_512GB.html" }
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_11_Pro_64GB.html"
+          }
         ]
       }
     ]
@@ -136,30 +256,42 @@
     "model": "iPhone 11 Pro Max",
     "variants": [
       {
-        "name": "iPhone 11 Pro Max 64GB",
-        "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_11_Pro_Max_64GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_11_Pro_Max_64GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_11_Pro_Max_64GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_11_Pro_Max_64GB.html" }
-        ]
-      },
-      {
         "name": "iPhone 11 Pro Max 256GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_11_Pro_Max_256GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_11_Pro_Max_256GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_11_Pro_Max_256GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_11_Pro_Max_256GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_11_Pro_Max_256GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_11_Pro_Max_256GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 11 Pro Max 512GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_11_Pro_Max_512GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_11_Pro_Max_512GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_11_Pro_Max_512GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_11_Pro_Max_512GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_11_Pro_Max_512GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_11_Pro_Max_512GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_11_Pro_Max_512GB.html"
+          }
+        ]
+      },
+      {
+        "name": "iPhone 11 Pro Max 64GB",
+        "grades": [
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_11_Pro_Max_64GB.html"
+          }
         ]
       }
     ]
@@ -168,39 +300,66 @@
     "model": "iPhone 12",
     "variants": [
       {
-        "name": "iPhone 12 64GB",
-        "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_12_64GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_12_64GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_12_64GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_12_64GB.html" }
-        ]
-      },
-      {
         "name": "iPhone 12 128GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_12_128GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_12_128GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_12_128GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_12_128GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_12_128GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_12_128GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_12_128GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_12_128GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 12 256GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_12_256GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_12_256GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_12_256GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_12_256GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_12_256GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_12_256GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_12_256GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_12_256GB.html"
+          }
         ]
       },
       {
-        "name": "iPhone 12 512GB",
+        "name": "iPhone 12 64GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_12_512GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_12_512GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_12_512GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_12_512GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_12_64GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_12_64GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_12_64GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_12_64GB.html"
+          }
         ]
       }
     ]
@@ -209,39 +368,50 @@
     "model": "iPhone 12 Mini",
     "variants": [
       {
-        "name": "iPhone 12 Mini 64GB",
-        "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_12_Mini_64GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_12_Mini_64GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_12_Mini_64GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_12_Mini_64GB.html" }
-        ]
-      },
-      {
         "name": "iPhone 12 Mini 128GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_12_Mini_128GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_12_Mini_128GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_12_Mini_128GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_12_Mini_128GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_12_Mini_128GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_12_Mini_128GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 12 Mini 256GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_12_Mini_256GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_12_Mini_256GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_12_Mini_256GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_12_Mini_256GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_12_Mini_256GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_12_Mini_256GB.html"
+          }
         ]
       },
       {
-        "name": "iPhone 12 Mini 512GB",
+        "name": "iPhone 12 Mini 64GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_12_Mini_512GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_12_Mini_512GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_12_Mini_512GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_12_Mini_512GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_12_Mini_64GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_12_Mini_64GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_12_Mini_64GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_12_Mini_64GB.html"
+          }
         ]
       }
     ]
@@ -252,28 +422,56 @@
       {
         "name": "iPhone 12 Pro 128GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_12_Pro_128GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_12_Pro_128GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_12_Pro_128GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_12_Pro_128GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_12_Pro_128GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_12_Pro_128GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_12_Pro_128GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 12 Pro 256GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_12_Pro_256GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_12_Pro_256GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_12_Pro_256GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_12_Pro_256GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_12_Pro_256GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_12_Pro_256GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_12_Pro_256GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_12_Pro_256GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 12 Pro 512GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_12_Pro_512GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_12_Pro_512GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_12_Pro_512GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_12_Pro_512GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_12_Pro_512GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_12_Pro_512GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_12_Pro_512GB.html"
+          }
         ]
       }
     ]
@@ -284,28 +482,60 @@
       {
         "name": "iPhone 12 Pro Max 128GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_12_Pro_Max_128GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_12_Pro_Max_128GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_12_Pro_Max_128GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_12_Pro_Max_128GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_12_Pro_Max_128GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_12_Pro_Max_128GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_12_Pro_Max_128GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_12_Pro_Max_128GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 12 Pro Max 256GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_12_Pro_Max_256GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_12_Pro_Max_256GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_12_Pro_Max_256GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_12_Pro_Max_256GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_12_Pro_Max_256GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_12_Pro_Max_256GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_12_Pro_Max_256GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_12_Pro_Max_256GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 12 Pro Max 512GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_12_Pro_Max_512GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_12_Pro_Max_512GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_12_Pro_Max_512GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_12_Pro_Max_512GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_12_Pro_Max_512GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_12_Pro_Max_512GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_12_Pro_Max_512GB.html"
+          }
         ]
       }
     ]
@@ -316,28 +546,64 @@
       {
         "name": "iPhone 13 128GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_13_128GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_13_128GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_13_128GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_13_128GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_13_128GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_13_128GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_13_128GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_13_128GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 13 256GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_13_256GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_13_256GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_13_256GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_13_256GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_13_256GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_13_256GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_13_256GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_13_256GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 13 512GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_13_512GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_13_512GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_13_512GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_13_512GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_13_512GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_13_512GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_13_512GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_13_512GB.html"
+          }
         ]
       }
     ]
@@ -348,28 +614,52 @@
       {
         "name": "iPhone 13 Mini 128GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_13_Mini_128GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_13_Mini_128GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_13_Mini_128GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_13_Mini_128GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_13_Mini_128GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_13_Mini_128GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_13_Mini_128GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 13 Mini 256GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_13_Mini_256GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_13_Mini_256GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_13_Mini_256GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_13_Mini_256GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_13_Mini_256GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_13_Mini_256GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_13_Mini_256GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 13 Mini 512GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_13_Mini_512GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_13_Mini_512GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_13_Mini_512GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_13_Mini_512GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_13_Mini_512GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_13_Mini_512GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_13_Mini_512GB.html"
+          }
         ]
       }
     ]
@@ -380,37 +670,69 @@
       {
         "name": "iPhone 13 Pro 128GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_13_Pro_128GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_13_Pro_128GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_13_Pro_128GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_13_Pro_128GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_13_Pro_128GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_13_Pro_128GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_13_Pro_128GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 13 Pro 256GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_13_Pro_256GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_13_Pro_256GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_13_Pro_256GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_13_Pro_256GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_13_Pro_256GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_13_Pro_256GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_13_Pro_256GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_13_Pro_256GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 13 Pro 512GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_13_Pro_512GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_13_Pro_512GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_13_Pro_512GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_13_Pro_512GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_13_Pro_512GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_13_Pro_512GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_13_Pro_512GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_13_Pro_512GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 13 Pro 1TB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_13_Pro_1TB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_13_Pro_1TB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_13_Pro_1TB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_13_Pro_1TB.html" }
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_13_Pro_1TB.html"
+          }
         ]
       }
     ]
@@ -421,37 +743,81 @@
       {
         "name": "iPhone 13 Pro Max 128GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_13_Pro_Max_128GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_13_Pro_Max_128GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_13_Pro_Max_128GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_13_Pro_Max_128GB.html" }
-        ]
-      },
-      {
-        "name": "iPhone 13 Pro Max 256GB",
-        "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_13_Pro_Max_256GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_13_Pro_Max_256GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_13_Pro_Max_256GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_13_Pro_Max_256GB.html" }
-        ]
-      },
-      {
-        "name": "iPhone 13 Pro Max 512GB",
-        "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_13_Pro_Max_512GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_13_Pro_Max_512GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_13_Pro_Max_512GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_13_Pro_Max_512GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_13_Pro_Max_128GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_13_Pro_Max_128GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_13_Pro_Max_128GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_13_Pro_Max_128GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 13 Pro Max 1TB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_13_Pro_Max_1TB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_13_Pro_Max_1TB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_13_Pro_Max_1TB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_13_Pro_Max_1TB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_13_Pro_Max_1TB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_13_Pro_Max_1TB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_13_Pro_Max_1TB.html"
+          }
+        ]
+      },
+      {
+        "name": "iPhone 13 Pro Max 256GB",
+        "grades": [
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_13_Pro_Max_256GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_13_Pro_Max_256GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_13_Pro_Max_256GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_13_Pro_Max_256GB.html"
+          }
+        ]
+      },
+      {
+        "name": "iPhone 13 Pro Max 512GB",
+        "grades": [
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_13_Pro_Max_512GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_13_Pro_Max_512GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_13_Pro_Max_512GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_13_Pro_Max_512GB.html"
+          }
         ]
       }
     ]
@@ -462,28 +828,64 @@
       {
         "name": "iPhone 14 128GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_14_128GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_14_128GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_14_128GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_14_128GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_14_128GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_14_128GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_14_128GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_14_128GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 14 256GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_14_256GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_14_256GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_14_256GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_14_256GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_14_256GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_14_256GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_14_256GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_14_256GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 14 512GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_14_512GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_14_512GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_14_512GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_14_512GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_14_512GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_14_512GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_14_512GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_14_512GB.html"
+          }
         ]
       }
     ]
@@ -494,28 +896,64 @@
       {
         "name": "iPhone 14 Plus 128GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_14_Plus_128GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_14_Plus_128GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_14_Plus_128GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_14_Plus_128GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_14_Plus_128GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_14_Plus_128GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_14_Plus_128GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_14_Plus_128GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 14 Plus 256GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_14_Plus_256GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_14_Plus_256GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_14_Plus_256GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_14_Plus_256GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_14_Plus_256GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_14_Plus_256GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_14_Plus_256GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_14_Plus_256GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 14 Plus 512GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_14_Plus_512GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_14_Plus_512GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_14_Plus_512GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_14_Plus_512GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_14_Plus_512GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_14_Plus_512GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_14_Plus_512GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_14_Plus_512GB.html"
+          }
         ]
       }
     ]
@@ -526,37 +964,77 @@
       {
         "name": "iPhone 14 Pro 128GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_14_Pro_128GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_14_Pro_128GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_14_Pro_128GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_14_Pro_128GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_14_Pro_128GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_14_Pro_128GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_14_Pro_128GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_14_Pro_128GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 14 Pro 256GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_14_Pro_256GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_14_Pro_256GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_14_Pro_256GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_14_Pro_256GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_14_Pro_256GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_14_Pro_256GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_14_Pro_256GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_14_Pro_256GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 14 Pro 512GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_14_Pro_512GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_14_Pro_512GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_14_Pro_512GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_14_Pro_512GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_14_Pro_512GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_14_Pro_512GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_14_Pro_512GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_14_Pro_512GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 14 Pro 1TB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_14_Pro_1TB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_14_Pro_1TB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_14_Pro_1TB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_14_Pro_1TB.html" }
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_14_Pro_1TB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_14_Pro_1TB.html"
+          }
         ]
       }
     ]
@@ -567,37 +1045,81 @@
       {
         "name": "iPhone 14 Pro Max 128GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_14_Pro_Max_128GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_14_Pro_Max_128GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_14_Pro_Max_128GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_14_Pro_Max_128GB.html" }
-        ]
-      },
-      {
-        "name": "iPhone 14 Pro Max 256GB",
-        "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_14_Pro_Max_256GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_14_Pro_Max_256GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_14_Pro_Max_256GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_14_Pro_Max_256GB.html" }
-        ]
-      },
-      {
-        "name": "iPhone 14 Pro Max 512GB",
-        "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_14_Pro_Max_512GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_14_Pro_Max_512GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_14_Pro_Max_512GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_14_Pro_Max_512GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_14_Pro_Max_128GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_14_Pro_Max_128GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_14_Pro_Max_128GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_14_Pro_Max_128GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 14 Pro Max 1TB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_14_Pro_Max_1TB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_14_Pro_Max_1TB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_14_Pro_Max_1TB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_14_Pro_Max_1TB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_14_Pro_Max_1TB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_14_Pro_Max_1TB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_14_Pro_Max_1TB.html"
+          }
+        ]
+      },
+      {
+        "name": "iPhone 14 Pro Max 256GB",
+        "grades": [
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_14_Pro_Max_256GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_14_Pro_Max_256GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_14_Pro_Max_256GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_14_Pro_Max_256GB.html"
+          }
+        ]
+      },
+      {
+        "name": "iPhone 14 Pro Max 512GB",
+        "grades": [
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_14_Pro_Max_512GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_14_Pro_Max_512GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_14_Pro_Max_512GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_14_Pro_Max_512GB.html"
+          }
         ]
       }
     ]
@@ -608,28 +1130,132 @@
       {
         "name": "iPhone 15 128GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_15_128GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_15_128GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_15_128GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_15_128GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_15_128GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_15_128GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_15_128GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_15_128GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 15 256GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_15_256GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_15_256GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_15_256GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_15_256GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_15_256GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_15_256GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_15_256GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_15_256GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 15 512GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_15_512GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_15_512GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_15_512GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_15_512GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_15_512GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_15_512GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_15_512GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_15_512GB.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "iPhone 15 Plus",
+    "variants": [
+      {
+        "name": "iPhone 15 Plus 128GB",
+        "grades": [
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_15_Plus_128GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_15_Plus_128GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_15_Plus_128GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_15_Plus_128GB.html"
+          }
+        ]
+      },
+      {
+        "name": "iPhone 15 Plus 256GB",
+        "grades": [
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_15_Plus_256GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_15_Plus_256GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_15_Plus_256GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_15_Plus_256GB.html"
+          }
+        ]
+      },
+      {
+        "name": "iPhone 15 Plus 512GB",
+        "grades": [
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_15_Plus_512GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_15_Plus_512GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_15_Plus_512GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_15_Plus_512GB.html"
+          }
         ]
       }
     ]
@@ -640,37 +1266,64 @@
       {
         "name": "iPhone 15 Pro 128GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_15_Pro_128GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_15_Pro_128GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_15_Pro_128GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_15_Pro_128GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_15_Pro_128GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_15_Pro_128GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_15_Pro_128GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_15_Pro_128GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 15 Pro 256GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_15_Pro_256GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_15_Pro_256GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_15_Pro_256GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_15_Pro_256GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_15_Pro_256GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_15_Pro_256GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_15_Pro_256GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_15_Pro_256GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 15 Pro 512GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_15_Pro_512GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_15_Pro_512GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_15_Pro_512GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_15_Pro_512GB.html" }
-        ]
-      },
-      {
-        "name": "iPhone 15 Pro 1TB",
-        "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_15_Pro_1TB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_15_Pro_1TB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_15_Pro_1TB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_15_Pro_1TB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_15_Pro_512GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_15_Pro_512GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_15_Pro_512GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_15_Pro_512GB.html"
+          }
         ]
       }
     ]
@@ -679,30 +1332,66 @@
     "model": "iPhone 15 Pro Max",
     "variants": [
       {
+        "name": "iPhone 15 Pro Max 1TB",
+        "grades": [
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_15_Pro_Max_1TB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_15_Pro_Max_1TB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_15_Pro_Max_1TB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_15_Pro_Max_1TB.html"
+          }
+        ]
+      },
+      {
         "name": "iPhone 15 Pro Max 256GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_15_Pro_Max_256GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_15_Pro_Max_256GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_15_Pro_Max_256GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_15_Pro_Max_256GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_15_Pro_Max_256GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_15_Pro_Max_256GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_15_Pro_Max_256GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_15_Pro_Max_256GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 15 Pro Max 512GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_15_Pro_Max_512GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_15_Pro_Max_512GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_15_Pro_Max_512GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_15_Pro_Max_512GB.html" }
-        ]
-      },
-      {
-        "name": "iPhone 15 Pro Max 1TB",
-        "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_15_Pro_Max_1TB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_15_Pro_Max_1TB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_15_Pro_Max_1TB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_15_Pro_Max_1TB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_15_Pro_Max_512GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_15_Pro_Max_512GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_15_Pro_Max_512GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_15_Pro_Max_512GB.html"
+          }
         ]
       }
     ]
@@ -713,28 +1402,116 @@
       {
         "name": "iPhone 16 128GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_16_128GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_16_128GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_16_128GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_16_128GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_16_128GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_16_128GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_16_128GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_16_128GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 16 256GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_16_256GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_16_256GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_16_256GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_16_256GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_16_256GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_16_256GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_16_256GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 16 512GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_16_512GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_16_512GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_16_512GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_16_512GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_16_512GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_16_512GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_16_512GB.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "iPhone 16 Plus",
+    "variants": [
+      {
+        "name": "iPhone 16 Plus 128GB",
+        "grades": [
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_16_Plus_128GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_16_Plus_128GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_16_Plus_128GB.html"
+          }
+        ]
+      },
+      {
+        "name": "iPhone 16 Plus 256GB",
+        "grades": [
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_16_Plus_256GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_16_Plus_256GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_16_Plus_256GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_16_Plus_256GB.html"
+          }
+        ]
+      },
+      {
+        "name": "iPhone 16 Plus 512GB",
+        "grades": [
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_16_Plus_512GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_16_Plus_512GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_16_Plus_512GB.html"
+          }
         ]
       }
     ]
@@ -745,37 +1522,60 @@
       {
         "name": "iPhone 16 Pro 128GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_16_Pro_128GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_16_Pro_128GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_16_Pro_128GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_16_Pro_128GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_16_Pro_128GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_16_Pro_128GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_16_Pro_128GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 16 Pro 256GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_16_Pro_256GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_16_Pro_256GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_16_Pro_256GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_16_Pro_256GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_16_Pro_256GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_16_Pro_256GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_16_Pro_256GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_16_Pro_256GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 16 Pro 512GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_16_Pro_512GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_16_Pro_512GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_16_Pro_512GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_16_Pro_512GB.html" }
-        ]
-      },
-      {
-        "name": "iPhone 16 Pro 1TB",
-        "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_16_Pro_1TB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_16_Pro_1TB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_16_Pro_1TB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_16_Pro_1TB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_16_Pro_512GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_16_Pro_512GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_16_Pro_512GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_16_Pro_512GB.html"
+          }
         ]
       }
     ]
@@ -784,30 +1584,210 @@
     "model": "iPhone 16 Pro Max",
     "variants": [
       {
+        "name": "iPhone 16 Pro Max 1TB",
+        "grades": [
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_16_Pro_Max_1TB.html"
+          }
+        ]
+      },
+      {
         "name": "iPhone 16 Pro Max 256GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_16_Pro_Max_256GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_16_Pro_Max_256GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_16_Pro_Max_256GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_16_Pro_Max_256GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_16_Pro_Max_256GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_16_Pro_Max_256GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_16_Pro_Max_256GB.html"
+          }
         ]
       },
       {
         "name": "iPhone 16 Pro Max 512GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_16_Pro_Max_512GB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_16_Pro_Max_512GB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_16_Pro_Max_512GB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_16_Pro_Max_512GB.html" }
+          {
+            "grade": "A",
+            "chart": "Grade_A/iPhone_16_Pro_Max_512GB.html"
+          },
+          {
+            "grade": "AA",
+            "chart": "Grade_AA/iPhone_16_Pro_Max_512GB.html"
+          },
+          {
+            "grade": "B",
+            "chart": "Grade_B/iPhone_16_Pro_Max_512GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/iPhone_16_Pro_Max_512GB.html"
+          }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "model": "Iphone 6S",
+    "variants": [
       {
-        "name": "iPhone 16 Pro Max 1TB",
+        "name": "Iphone 6S 64GB",
         "grades": [
-          { "grade": "AA", "chart": "Grade_AA/iPhone_16_Pro_Max_1TB.html" },
-          { "grade": "A", "chart": "Grade_A/iPhone_16_Pro_Max_1TB.html" },
-          { "grade": "B", "chart": "Grade_B/iPhone_16_Pro_Max_1TB.html" },
-          { "grade": "C", "chart": "Grade_C/iPhone_16_Pro_Max_1TB.html" }
+          {
+            "grade": "B",
+            "chart": "Grade_B/Iphone_6S_64GB.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "Iphone 7",
+    "variants": [
+      {
+        "name": "Iphone 7 256GB",
+        "grades": [
+          {
+            "grade": "B",
+            "chart": "Grade_B/Iphone_7_256GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/Iphone_7_256GB.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "Iphone 7 Plus",
+    "variants": [
+      {
+        "name": "Iphone 7 Plus 256GB",
+        "grades": [
+          {
+            "grade": "B",
+            "chart": "Grade_B/Iphone_7_Plus_256GB.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "Iphone 7,",
+    "variants": [
+      {
+        "name": "Iphone 7, 32GB",
+        "grades": [
+          {
+            "grade": "B",
+            "chart": "Grade_B/Iphone_7,_32GB.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "Iphone 8",
+    "variants": [
+      {
+        "name": "Iphone 8 64GB",
+        "grades": [
+          {
+            "grade": "B",
+            "chart": "Grade_B/Iphone_8_64GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/Iphone_8_64GB.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "Iphone 8 Plus",
+    "variants": [
+      {
+        "name": "Iphone 8 Plus 64GB",
+        "grades": [
+          {
+            "grade": "B",
+            "chart": "Grade_B/Iphone_8_Plus_64GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/Iphone_8_Plus_64GB.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "Iphone 8,",
+    "variants": [
+      {
+        "name": "Iphone 8, 64GB",
+        "grades": [
+          {
+            "grade": "B",
+            "chart": "Grade_B/Iphone_8,_64GB.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "Iphone Xr",
+    "variants": [
+      {
+        "name": "Iphone Xr 64GB",
+        "grades": [
+          {
+            "grade": "B",
+            "chart": "Grade_B/Iphone_Xr_64GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/Iphone_Xr_64GB.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "Iphone Xr,",
+    "variants": [
+      {
+        "name": "Iphone Xr, 64GB",
+        "grades": [
+          {
+            "grade": "B",
+            "chart": "Grade_B/Iphone_Xr,_64GB.html"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "Iphone Xs",
+    "variants": [
+      {
+        "name": "Iphone Xs 512GB",
+        "grades": [
+          {
+            "grade": "B",
+            "chart": "Grade_B/Iphone_Xs_512GB.html"
+          },
+          {
+            "grade": "C",
+            "chart": "Grade_C/Iphone_Xs_512GB.html"
+          }
         ]
       }
     ]

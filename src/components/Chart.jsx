@@ -1,52 +1,65 @@
-import React, { useState, useEffect } from "react";
+import { useEffect, useRef, useState } from "react";
 
-const Chart = ({ chartFile, selectedGrade = "Grade_A" }) => {
-  const [iframeError, setIframeError] = useState(false);
-
-  if (!chartFile) {
-    return <div style={{ color: "white", textAlign: "center" }}>Chart not available</div>;
-  }
-
-  const chartPath = `/Listings/Charts_By_Grade/${selectedGrade}/${chartFile}`;
+export default function Chart({ chartFile }) {
+  const iframeRef = useRef();
+  const [xOffset, setXOffset] = useState(0);
+  const [yOffset, setYOffset] = useState(0);
 
   useEffect(() => {
-    setIframeError(false); // reset error on new file load
-  }, [chartFile, selectedGrade]);
+    const checkFile = async () => {
+      if (!chartFile || !chartFile.endsWith(".html")) {
+        iframeRef.current.src = "/emptychart.html";
+        return;
+      }
+
+      const fullUrl = `/Charts_By_Grade/${chartFile}`;
+      const fallbackUrl = fullUrl.replace(".html", ".empty.html");
+
+      try {
+        const res = await fetch(fullUrl, { method: "HEAD" });
+        iframeRef.current.src = res.ok ? fullUrl : fallbackUrl;
+      } catch {
+        iframeRef.current.src = fallbackUrl;
+      }
+    };
+
+    checkFile();
+  }, [chartFile]);
+
+  const move = (dx, dy) => {
+    setXOffset(prev => prev + dx);
+    setYOffset(prev => prev + dy);
+  };
 
   return (
-    <div style={{ width: "100%", height: "100%", padding: "1rem", boxSizing: "border-box" }}>
-      {iframeError ? (
-        <div
-          style={{
-            color: "white",
-            textAlign: "center",
-            border: "1px solid #444",
-            borderRadius: "12px",
-            backgroundColor: "#1a1a1a",
-            padding: "2rem"
-          }}
-        >
-          📉 No lots sold for this model on <b>{selectedGrade.replace("_", " ")}</b>
-        </div>
-      ) : (
+    <div style={{ padding: "20px", position: "relative", textAlign: "center" }}>
+      <div style={{ marginBottom: "10px" }}>
+        <button onClick={() => move(0, -20)}>↑</button>
+        <button onClick={() => move(-20, 0)} style={{ margin: "0 10px" }}>←</button>
+        <button onClick={() => move(20, 0)}>→</button>
+        <button onClick={() => move(0, 20)} style={{ marginLeft: "10px" }}>↓</button>
+      </div>
+
+      <div
+        style={{
+          transform: `translate(${xOffset}px, ${yOffset}px)`,
+          transition: "transform 0.2s ease-out",
+          display: "inline-block",
+        }}
+      >
         <iframe
-          src={chartPath}
+          ref={iframeRef}
           title="Auction Chart"
-          width="100%"
-          height="600px"
+          width="1000px"
+          height="500px"
           style={{
-            border: "1px solid #444",
-            borderRadius: "12px",
-            backgroundColor: "#1a1a1a",
-            boxShadow: "0 0 10px rgba(0,0,0,0.5)",
+            border: "1px solid #333",
+            borderRadius: "10px",
+            backgroundColor: "#111",
           }}
           sandbox="allow-scripts allow-same-origin"
-          onLoad={() => console.log(`✅ Chart loaded: ${chartPath}`)}
-          onError={() => setIframeError(true)}
         />
-      )}
+      </div>
     </div>
   );
-};
-
-export default Chart;
+}

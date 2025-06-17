@@ -1,12 +1,16 @@
 import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Dashboard from './pages/dashboard';
+import ChartPage from './pages/ChartPage'; // 🟢 Corrected case
 
 function App() {
   return (
-    <div>
-      <h1 style={{ padding: '20px', textAlign: 'center' }}>📦 Auction Dashboard</h1>
-      <Dashboard />
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Dashboard />} />
+        <Route path="/chart" element={<ChartPage />} />
+      </Routes>
+    </Router>
   );
 }
 
