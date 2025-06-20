@@ -6,13 +6,13 @@ import UpcomingAuctions from './pages/UpcomingAuctions'; // ✅ Import added
 
 function App() {
   return (
-    <Router>
+    <BrowserRouter>
       <Routes>
         <Route path="/" element={<Dashboard />} />
-        <Route path="/chart" element={<ChartPage />} />
-        <Route path="/upcoming" element={<UpcomingAuctions />} /> {/* ✅ Route added */}
+        <Route path="/upcoming" element={<UpcomingPage />} />
+        {/* other routes */}
       </Routes>
-    </Router>
+    </BrowserRouter>
   );
 }
 
