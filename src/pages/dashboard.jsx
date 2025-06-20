@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import { useNavigate } from "react-router-dom"; // ✅ NEW
 import models from "../data/models.json";
 import pricingData from "../data/price_list.json";
 import upcomingData from "../data/upcoming_auctions.json";
@@ -9,6 +10,7 @@ export default function Dashboard() {
   const [expandedBrand, setExpandedBrand] = useState(null);
   const [selectedModel, setSelectedModel] = useState(null);
   const [countdowns, setCountdowns] = useState({ Tuesday: "", Thursday: "" });
+  const navigate = useNavigate(); // ✅ Hook initialized
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -52,7 +54,7 @@ export default function Dashboard() {
   const handleCapacityClick = (variant) => {
     const defaultGrade = variant.grades?.[0];
     if (defaultGrade?.chart) {
-      window.location.href = `/chart?file=${encodeURIComponent(defaultGrade.chart)}`;
+      navigate(`/chart?file=${encodeURIComponent(defaultGrade.chart)}`); // ✅ FIXED
     }
   };
 
@@ -129,7 +131,7 @@ export default function Dashboard() {
                 }}
                 onClick={() => {
                   if (isAvailable) {
-                    window.location.href = `/upcoming?model=${encodeURIComponent(name)}`;
+                    navigate(`/upcoming?model=${encodeURIComponent(name)}`); // ✅ FIXED
                   }
                 }}
               >
