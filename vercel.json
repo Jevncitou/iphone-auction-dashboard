@@ -1,7 +1,11 @@
 {
   "rewrites": [
     {
-      "source": "/(.*)",
+      "source": "/chart",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/upcoming",
       "destination": "/index.html"
     }
   ]
