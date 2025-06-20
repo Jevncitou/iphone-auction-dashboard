@@ -1,0 +1,606 @@
+{
+  "iPhone 11": {
+    "64GB": {
+      "Grade_A": 196.69,
+      "Grade_AA": 219.06,
+      "Grade_B": 156.68,
+      "Grade_C": 137.06
+    },
+    "128GB": {
+      "Grade_AA": 260.6,
+      "Grade_B": 125.0,
+      "Grade_C": 122.27
+    },
+    "256GB": {
+      "Grade_AA": 274.11
+    }
+  },
+  "iPhone 11 Pro": {
+    "512GB": {
+      "Grade_A": 218.84,
+      "Grade_AA": 265.0,
+      "Grade_B": 200.07,
+      "Grade_C": 160.21
+    },
+    "256GB": {
+      "Grade_B": 205.83,
+      "Grade_C": 156.36
+    },
+    "64GB": {
+      "Grade_B": 217.63
+    }
+  },
+  "iPhone 11 Pro Max": {
+    "512GB": {
+      "Grade_A": 285.48,
+      "Grade_AA": 401.67,
+      "Grade_B": 241.91,
+      "Grade_C": 180.3
+    },
+    "64GB": {
+      "Grade_A": 272.35,
+      "Grade_AA": 287.7,
+      "Grade_B": 245.31
+    },
+    "256GB": {
+      "Grade_AA": 291.0
+    }
+  },
+  "iPhone 12": {
+    "128GB": {
+      "Grade_A": 225.0,
+      "Grade_AA": 310.07,
+      "Grade_B": 205.41,
+      "Grade_C": 151.83
+    },
+    "64GB": {
+      "Grade_A": 219.29,
+      "Grade_AA": 248.81,
+      "Grade_B": 177.6,
+      "Grade_C": 137.66
+    },
+    "256GB": {
+      "Grade_B": 216.55,
+      "Grade_C": 153.4
+    }
+  },
+  "iPhone 12 Mini": {
+    "128GB": {
+      "Grade_A": 161.04,
+      "Grade_AA": 191.04,
+      "Grade_B": 156.22
+    },
+    "256GB": {
+      "Grade_A": 169.56,
+      "Grade_B": 157.31
+    },
+    "64GB": {
+      "Grade_A": 180.95,
+      "Grade_AA": 194.93,
+      "Grade_B": 132.43,
+      "Grade_C": 102.53
+    }
+  },
+  "iPhone 12 Pro": {
+    "128GB": {
+      "Grade_A": 257.5,
+      "Grade_B": 240.09,
+      "Grade_C": 182.79
+    },
+    "256GB": {
+      "Grade_A": 323.0,
+      "Grade_B": 264.77,
+      "Grade_C": 196.88
+    },
+    "512GB": {
+      "Grade_B": 249.31,
+      "Grade_C": 204.9
+    }
+  },
+  "iPhone 12 Pro Max": {
+    "128GB": {
+      "Grade_A": 408.64,
+      "Grade_AA": 457.56,
+      "Grade_B": 346.83,
+      "Grade_C": 238.46
+    },
+    "256GB": {
+      "Grade_A": 399.37,
+      "Grade_AA": 426.0,
+      "Grade_B": 327.13,
+      "Grade_C": 255.5
+    },
+    "512GB": {
+      "Grade_A": 419.3,
+      "Grade_B": 358.46,
+      "Grade_C": 260.07
+    }
+  },
+  "iPhone 13": {
+    "128GB": {
+      "Grade_A": 275.81,
+      "Grade_AA": 344.36,
+      "Grade_B": 250.89,
+      "Grade_C": 200.67
+    },
+    "256GB": {
+      "Grade_A": 329.6,
+      "Grade_AA": 369.23,
+      "Grade_B": 268.89,
+      "Grade_C": 215.4
+    },
+    "512GB": {
+      "Grade_A": 323.93,
+      "Grade_AA": 332.37,
+      "Grade_B": 277.53,
+      "Grade_C": 228.55
+    }
+  },
+  "iPhone 13 Mini": {
+    "128GB": {
+      "Grade_A": 227.4,
+      "Grade_B": 238.39,
+      "Grade_C": 141.84
+    },
+    "256GB": {
+      "Grade_A": 249.58,
+      "Grade_B": 254.25,
+      "Grade_C": 186.3
+    },
+    "512GB": {
+      "Grade_B": 220.33,
+      "Grade_C": 162.01
+    }
+  },
+  "iPhone 13 Pro": {
+    "128GB": {
+      "Grade_A": 390.56,
+      "Grade_AA": 400.5,
+      "Grade_B": 332.1,
+      "Grade_C": 266.71
+    },
+    "256GB": {
+      "Grade_A": 406.75,
+      "Grade_AA": 430.0,
+      "Grade_B": 349.11,
+      "Grade_C": 290.24
+    },
+    "512GB": {
+      "Grade_A": 388.25,
+      "Grade_B": 354.31,
+      "Grade_C": 293.6
+    },
+    "1TB": {
+      "Grade_AA": 500.0,
+      "Grade_C": 306.03
+    }
+  },
+  "iPhone 13 Pro Max": {
+    "128GB": {
+      "Grade_A": 473.6,
+      "Grade_AA": 583.65,
+      "Grade_B": 394.03,
+      "Grade_C": 317.67
+    },
+    "256GB": {
+      "Grade_A": 509.52,
+      "Grade_AA": 617.25,
+      "Grade_B": 424.45,
+      "Grade_C": 348.04
+    },
+    "512GB": {
+      "Grade_A": 507.08,
+      "Grade_AA": 565.43,
+      "Grade_B": 432.67,
+      "Grade_C": 357.51
+    },
+    "1TB": {
+      "Grade_B": 474.82,
+      "Grade_C": 361.57
+    }
+  },
+  "iPhone 14": {
+    "128GB": {
+      "Grade_A": 345.19,
+      "Grade_AA": 360.24,
+      "Grade_B": 292.57,
+      "Grade_C": 230.02
+    },
+    "256GB": {
+      "Grade_A": 370.04,
+      "Grade_AA": 406.04,
+      "Grade_B": 310.08,
+      "Grade_C": 232.0
+    },
+    "512GB": {
+      "Grade_A": 373.41,
+      "Grade_AA": 369.25,
+      "Grade_B": 328.39,
+      "Grade_C": 246.66
+    }
+  },
+  "iPhone 14 Plus": {
+    "128GB": {
+      "Grade_A": 367.75,
+      "Grade_AA": 400.11,
+      "Grade_B": 324.61,
+      "Grade_C": 223.81
+    },
+    "256GB": {
+      "Grade_A": 407.2,
+      "Grade_AA": 458.29,
+      "Grade_B": 346.76,
+      "Grade_C": 245.62
+    },
+    "512GB": {
+      "Grade_A": 413.61,
+      "Grade_AA": 482.24,
+      "Grade_B": 354.83,
+      "Grade_C": 253.13
+    }
+  },
+  "iPhone 14 Pro": {
+    "128GB": {
+      "Grade_A": 451.59,
+      "Grade_AA": 525.5,
+      "Grade_B": 406.43,
+      "Grade_C": 330.99
+    },
+    "256GB": {
+      "Grade_A": 480.1,
+      "Grade_AA": 510.29,
+      "Grade_B": 427.86,
+      "Grade_C": 359.6
+    },
+    "512GB": {
+      "Grade_A": 493.86,
+      "Grade_AA": 550.56,
+      "Grade_B": 440.28,
+      "Grade_C": 376.85
+    },
+    "1TB": {
+      "Grade_B": 470.48,
+      "Grade_C": 378.37
+    }
+  },
+  "iPhone 14 Pro Max": {
+    "128GB": {
+      "Grade_A": 563.82,
+      "Grade_AA": 638.76,
+      "Grade_B": 498.54,
+      "Grade_C": 391.17
+    },
+    "1TB": {
+      "Grade_A": 605.71,
+      "Grade_AA": 700.0,
+      "Grade_B": 566.43,
+      "Grade_C": 442.16
+    },
+    "256GB": {
+      "Grade_A": 592.07,
+      "Grade_AA": 613.44,
+      "Grade_B": 523.39,
+      "Grade_C": 430.97
+    },
+    "512GB": {
+      "Grade_A": 607.17,
+      "Grade_AA": 634.9,
+      "Grade_B": 545.64,
+      "Grade_C": 442.37
+    }
+  },
+  "iPhone 15": {
+    "128GB": {
+      "Grade_A": 450.6,
+      "Grade_AA": 509.5,
+      "Grade_B": 399.36,
+      "Grade_C": 310.42
+    },
+    "256GB": {
+      "Grade_A": 504.92,
+      "Grade_AA": 512.01,
+      "Grade_B": 467.13,
+      "Grade_C": 340.78
+    },
+    "512GB": {
+      "Grade_A": 504.65,
+      "Grade_B": 470.98,
+      "Grade_C": 322.13
+    }
+  },
+  "iPhone 15 Plus": {
+    "128GB": {
+      "Grade_A": 526.02,
+      "Grade_AA": 568.27,
+      "Grade_B": 503.0,
+      "Grade_C": 332.05
+    },
+    "256GB": {
+      "Grade_A": 584.35,
+      "Grade_AA": 638.89,
+      "Grade_B": 501.56,
+      "Grade_C": 387.91
+    },
+    "512GB": {
+      "Grade_A": 550.22,
+      "Grade_AA": 634.17,
+      "Grade_B": 472.62,
+      "Grade_C": 335.36
+    }
+  },
+  "iPhone 15 Pro": {
+    "128GB": {
+      "Grade_A": 656.56,
+      "Grade_AA": 638.85,
+      "Grade_B": 572.47,
+      "Grade_C": 365.61
+    },
+    "256GB": {
+      "Grade_A": 662.18,
+      "Grade_AA": 653.62,
+      "Grade_B": 573.03,
+      "Grade_C": 443.16
+    },
+    "512GB": {
+      "Grade_A": 655.38,
+      "Grade_AA": 727.27,
+      "Grade_B": 586.07,
+      "Grade_C": 434.23
+    }
+  },
+  "iPhone 15 Pro Max": {
+    "1TB": {
+      "Grade_A": 815.97,
+      "Grade_AA": 904.14,
+      "Grade_B": 731.39,
+      "Grade_C": 511.43
+    },
+    "256GB": {
+      "Grade_A": 740.76,
+      "Grade_AA": 800.68,
+      "Grade_B": 676.36,
+      "Grade_C": 487.53
+    },
+    "512GB": {
+      "Grade_A": 771.4,
+      "Grade_AA": 805.86,
+      "Grade_B": 713.37,
+      "Grade_C": 544.38
+    }
+  },
+  "iPhone 16": {
+    "128GB": {
+      "Grade_A": 580.2,
+      "Grade_AA": 496.04,
+      "Grade_B": 466.39,
+      "Grade_C": 364.65
+    },
+    "256GB": {
+      "Grade_A": 551.37,
+      "Grade_AA": 655.23,
+      "Grade_B": 611.84,
+      "Grade_C": 415.72
+    },
+    "512GB": {
+      "Grade_A": 696.84,
+      "Grade_AA": 708.69,
+      "Grade_B": 610.18,
+      "Grade_C": 396.22
+    }
+  },
+  "iPhone 16 Plus": {
+    "128GB": {
+      "Grade_A": 641.05,
+      "Grade_AA": 635.71,
+      "Grade_B": 618.2
+    },
+    "256GB": {
+      "Grade_A": 702.32,
+      "Grade_AA": 721.64,
+      "Grade_B": 669.96,
+      "Grade_C": 444.59
+    },
+    "512GB": {
+      "Grade_A": 623.2,
+      "Grade_B": 682.72,
+      "Grade_C": 436.22
+    }
+  },
+  "iPhone 16 Pro": {
+    "128GB": {
+      "Grade_A": 751.02,
+      "Grade_AA": 804.04,
+      "Grade_B": 780.82,
+      "Grade_C": 546.15
+    },
+    "256GB": {
+      "Grade_A": 832.12,
+      "Grade_AA": 843.86,
+      "Grade_B": 761.7,
+      "Grade_C": 584.22
+    },
+    "512GB": {
+      "Grade_A": 871.33,
+      "Grade_AA": 886.83,
+      "Grade_B": 791.64,
+      "Grade_C": 550.18
+    },
+    "1TB": {
+      "Grade_B": 945.52
+    }
+  },
+  "iPhone 16 Pro Max": {
+    "1TB": {
+      "Grade_A": 1226.7
+    },
+    "256GB": {
+      "Grade_A": 952.52,
+      "Grade_AA": 980.01,
+      "Grade_B": 913.07
+    },
+    "512GB": {
+      "Grade_A": 1034.49,
+      "Grade_AA": 1045.6,
+      "Grade_B": 985.82,
+      "Grade_C": 686.17
+    }
+  },
+  "Iphone 6S,": {
+    "32GB": {
+      "Grade_A": 25.5
+    }
+  },
+  "Iphone 7,": {
+    "128GB": {
+      "Grade_A": 50.0,
+      "Grade_C": 37.5
+    },
+    "32GB": {
+      "Grade_B": 37.5
+    }
+  },
+  "Iphone 7 Plus,": {
+    "32GB": {
+      "Grade_A": 50.0
+    }
+  },
+  "Iphone 8,": {
+    "256GB": {
+      "Grade_A": 50.0
+    },
+    "64GB": {
+      "Grade_A": 87.5
+    }
+  },
+  "Iphone Se ,": {
+    "128GB": {
+      "Grade_A": 236.11,
+      "Grade_AA": 121.42,
+      "Grade_B": 160.86,
+      "Grade_C": 58.75
+    }
+  },
+  "Iphone Se": {
+    "256GB": {
+      "Grade_A": 214.42,
+      "Grade_B": 155.42
+    },
+    "64GB": {
+      "Grade_A": 148.14,
+      "Grade_AA": 151.92,
+      "Grade_B": 119.2,
+      "Grade_C": 99.06
+    }
+  },
+  "Iphone Xr,": {
+    "128GB": {
+      "Grade_A": 168.61
+    },
+    "64GB": {
+      "Grade_A": 143.0,
+      "Grade_B": 121.2
+    }
+  },
+  "Iphone Xs Max": {
+    "512GB": {
+      "Grade_A": 191.74,
+      "Grade_B": 164.98,
+      "Grade_C": 120.44
+    }
+  },
+  "Iphone 7, Af043648": {
+    "32GB": {
+      "Grade_AA": 63.75
+    }
+  },
+  "Iphone 7 Plus, Af043652": {
+    "256GB": {
+      "Grade_AA": 77.5
+    }
+  },
+  "Iphone 8, Af044818": {
+    "256GB": {
+      "Grade_AA": 126.0
+    }
+  },
+  "Iphone 8, Af051719": {
+    "64GB": {
+      "Grade_AA": 95.03
+    }
+  },
+  "Iphone 8 Plus, Af043651": {
+    "64GB": {
+      "Grade_AA": 98.0
+    }
+  },
+  "Iphone Xs Max, Af045570": {
+    "64GB": {
+      "Grade_AA": 197.29
+    }
+  },
+  "Iphone X, Af045159": {
+    "64GB": {
+      "Grade_AA": 145.2
+    }
+  },
+  "Iphone 6S": {
+    "64GB": {
+      "Grade_B": 41.43,
+      "Grade_C": 29.81
+    }
+  },
+  "Iphone 6S Plus,": {
+    "32GB": {
+      "Grade_B": 25.0
+    }
+  },
+  "Iphone 6 Plus,": {
+    "16GB": {
+      "Grade_B": 25.0
+    }
+  },
+  "Iphone 7": {
+    "256GB": {
+      "Grade_B": 52.5,
+      "Grade_C": 38.41
+    }
+  },
+  "Iphone 7 Plus": {
+    "256GB": {
+      "Grade_B": 64.55
+    }
+  },
+  "Iphone 8 Plus": {
+    "64GB": {
+      "Grade_B": 98.49,
+      "Grade_C": 72.46
+    }
+  },
+  "Iphone Xs": {
+    "512GB": {
+      "Grade_B": 123.66,
+      "Grade_C": 94.91
+    }
+  },
+  "Iphone X": {
+    "64GB": {
+      "Grade_B": 108.13,
+      "Grade_C": 89.52
+    }
+  },
+  "Iphone 6S Plus": {
+    "64GB": {
+      "Grade_C": 37.0
+    }
+  },
+  "Iphone 6,": {
+    "16GB": {
+      "Grade_C": 10.0
+    }
+  },
+  "Iphone Xs Max,": {
+    "256GB": {
+      "Grade_C": 111.39
+    }
+  }
+}

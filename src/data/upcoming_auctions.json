@@ -1,0 +1,1640 @@
+{
+  "iPhone 11": [
+    {
+      "listing_id": 232013,
+      "sku": "CT0079832A",
+      "grade": "C(T)",
+      "units": 223,
+      "end_time": "2025-06-19T18:27:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone11_4960.jpg",
+      "manifest_models": "IPHN 11, IPH 11",
+      "manifest_capacities": "128GB, 256GB, 64GB",
+      "manifest_colors": "RED, GRN, PUR, BLK, WHT",
+      "manifest_part_numbers": "S140C, J167C, J136C, J135C, J836C, J832C, J091D, S827C, J834C, S136C, J152C, J827C, J826C, J154C, S152C, J828C, J138C, J830C, J156C, J130C, J159C, S833C, J134C, J150C, J831C, J833C, J153C, J145C, J837C, S153C, S134C, J140C"
+    },
+    {
+      "listing_id": 232044,
+      "sku": "CT0079904A",
+      "grade": "A+(T)",
+      "units": 36,
+      "end_time": "2025-06-19T18:28:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone11_4961.jpg",
+      "manifest_models": "IPH 11",
+      "manifest_capacities": "128GB, 256GB, 64GB",
+      "manifest_colors": "RED, YEL, GRN, PUR, BLK, WHT",
+      "manifest_part_numbers": "J153C, J145C, J154C, J826C, J167C, J126C, J136C, J161C, J138C, J830C, J833C, J134C, S832C, S134C, J152C, S831C, S150C"
+    },
+    {
+      "listing_id": 231998,
+      "sku": "CT0079961A",
+      "grade": "B+(T)",
+      "units": 25,
+      "end_time": "2025-06-19T18:29:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone11_4960.jpg",
+      "manifest_models": "IPH 11",
+      "manifest_capacities": "128GB, 256GB, 64GB",
+      "manifest_colors": "RED, GRN, PUR, BLK, WHT",
+      "manifest_part_numbers": "J153C, J145C, J154C, J167C, J136C, S152C, J138C, J830C, J156C, J832C, J091D, J152C, J140C"
+    }
+  ],
+  "iPhone 11 Pro": [
+    {
+      "listing_id": 232017,
+      "sku": "CT0079975A",
+      "grade": "B(T)",
+      "units": 21,
+      "end_time": "2025-06-19T18:26:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone11pro_2735.jpg",
+      "manifest_models": "IPH 11P, IPH 11 PRO",
+      "manifest_capacities": "512GB, 256GB, 64GB",
+      "manifest_colors": "GRN, SLV, SGY, GLD",
+      "manifest_part_numbers": "S133C, J133C, J147C, J149C, J146C, J132C, J157C, J144C, J164C"
+    }
+  ],
+  "iPhone 11 Pro Max": [
+    {
+      "listing_id": 231941,
+      "sku": "CT0079845A",
+      "grade": "C(T)",
+      "units": 91,
+      "end_time": "2025-06-19T18:24:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone11promax_4395.jpg",
+      "manifest_models": "IPH 11 PRO MAX, IPH 11PM",
+      "manifest_capacities": "512GB, 256GB, 64GB",
+      "manifest_colors": "GRN, SLV, SGY, GLD",
+      "manifest_part_numbers": "J128C, J137C, J158C, S128C, J143C, J148C, J165C, J166C, J151C, S142C, S129C, J129C, J155C, J141C, A128C, J142C"
+    },
+    {
+      "listing_id": 231919,
+      "sku": "CT0079964A",
+      "grade": "B(T)",
+      "units": 24,
+      "end_time": "2025-06-19T18:25:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone11promax_4394.jpg",
+      "manifest_models": "IPH 11PM",
+      "manifest_capacities": "512GB, 256GB, 64GB",
+      "manifest_colors": "GRN, SLV, SGY, GLD",
+      "manifest_part_numbers": "J128C, J158C, S128C, J148C, J143C, J165C, J166C, J151C, U128C, J129C, J155C, J142C"
+    }
+  ],
+  "iPhone 12": [
+    {
+      "listing_id": 231797,
+      "sku": "CT0079791A",
+      "grade": "C(T)",
+      "units": 102,
+      "end_time": "2025-06-19T18:16:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone12_3468.jpg",
+      "manifest_models": "IPH 12",
+      "manifest_capacities": "64GB",
+      "manifest_colors": "RED, GRN, PUR, BLK, WHT, BLU",
+      "manifest_part_numbers": "J861C, E861C, A862C, J859C, A861C, J858C, J862C, S038E, S862C, S860C, A858C, J006D, S861C, S006D, S858C, J860C"
+    },
+    {
+      "listing_id": 231796,
+      "sku": "CT0079793A",
+      "grade": "C(T)",
+      "units": 100,
+      "end_time": "2025-06-19T18:17:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone12_3468.jpg",
+      "manifest_models": "IPH 12",
+      "manifest_capacities": "128GB",
+      "manifest_colors": "RED, GRN, PUR, BLK, WHT, BLU",
+      "manifest_part_numbers": "A866C, J007D, S007D, J866C, J863C, A863C, J867C, S863C, S866C, J864C, S864C, J865C, E863C"
+    },
+    {
+      "listing_id": 231906,
+      "sku": "CT0079935A",
+      "grade": "B(T)",
+      "units": 26,
+      "end_time": "2025-06-19T18:18:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone12_3469.jpg",
+      "manifest_models": "IPH 12 256GB, IPH 12",
+      "manifest_capacities": "256GB, 64GB",
+      "manifest_colors": "RED, GRN, PUR, BLK, WHT, BLU",
+      "manifest_part_numbers": "J861C, J859C, A861C, J858C, J862C, J871C, J006D, J860C"
+    },
+    {
+      "listing_id": 232003,
+      "sku": "CT0079946A",
+      "grade": "C(T)",
+      "units": 25,
+      "end_time": "2025-06-19T18:19:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone12_3470.jpg",
+      "manifest_models": "IPH 12",
+      "manifest_capacities": "256GB",
+      "manifest_colors": "RED, GRN, PUR, BLK, WHT",
+      "manifest_part_numbers": "J008D, E868C, J869C, J868C, S868C, J870C, S870C, J872C, A868C"
+    },
+    {
+      "listing_id": 232007,
+      "sku": "CT0079953A",
+      "grade": "B+(T)",
+      "units": 25,
+      "end_time": "2025-06-19T18:20:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone12_3470.jpg",
+      "manifest_models": "IPH 12",
+      "manifest_capacities": "128GB, 64GB",
+      "manifest_colors": "RED, GRN, BLK, WHT, BLU",
+      "manifest_part_numbers": "E861C, J861C, E859C, J858C, J862C, S859C, A860C, J863C, S860C, A858C, S861C, S858C, J860C"
+    }
+  ],
+  "iPhone 12 Mini": [
+    {
+      "listing_id": 231821,
+      "sku": "CT0079844A",
+      "grade": "C(T)",
+      "units": 94,
+      "end_time": "2025-06-19T18:21:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone12mini_1921.jpg",
+      "manifest_models": "IPH 12M",
+      "manifest_capacities": "128GB, 256GB, 64GB",
+      "manifest_colors": "RED, GRN, PUR, BLK, WHT, BLU",
+      "manifest_part_numbers": "S010D, J885C, A888C, J899C, J010D, S885C, E887C, E888C, A887C, S893C, J009D, J890C, J886C, S891C, S894C, S898C, E885C, J888C, J891C, J011D, A891C, J887C, J893C, A885C, J895C, S890C"
+    },
+    {
+      "listing_id": 231848,
+      "sku": "CT0079987A",
+      "grade": "B(T)",
+      "units": 18,
+      "end_time": "2025-06-19T18:22:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone12mini_1922.jpg",
+      "manifest_models": "IPH 12M",
+      "manifest_capacities": "128GB, 256GB, 64GB",
+      "manifest_colors": "RED, GRN, PUR, BLK, WHT, BLU",
+      "manifest_part_numbers": "J886C, E888C, A899C, J888C, J887C, J010D, J885C, J894C, J009D, J895C, J011D"
+    }
+  ],
+  "iPhone 12 Pro": [
+    {
+      "listing_id": 231900,
+      "sku": "CT0079864A",
+      "grade": "C(T)",
+      "units": 65,
+      "end_time": "2025-06-19T18:14:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone12pro_2401.jpg",
+      "manifest_models": "IPH 12P",
+      "manifest_capacities": "512GB, 128GB, 256GB",
+      "manifest_colors": "GPH, SLV, GLD, BLU",
+      "manifest_part_numbers": "J884C, S881C, J878C, J879C, S877C, J875C, S880C, J873C, J876C, S875C, J874C, J877C, J880C, U882C, J881C"
+    },
+    {
+      "listing_id": 231774,
+      "sku": "CT0079977A",
+      "grade": "B(T)",
+      "units": 20,
+      "end_time": "2025-06-19T18:15:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone12pro_2400.jpg",
+      "manifest_models": "IPH 12P",
+      "manifest_capacities": "512GB, 128GB, 256GB",
+      "manifest_colors": "BLU, SLV, GLD, GPH",
+      "manifest_part_numbers": "J884C, J878C, J879C, J882C, J883C, A880C, J874C, J877C, J880C, A881C, J881C"
+    }
+  ],
+  "iPhone 12 Pro Max": [
+    {
+      "listing_id": 231794,
+      "sku": "CT0079772A",
+      "grade": "C(T)",
+      "units": 202,
+      "end_time": "2025-06-19T18:09:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone12promax_3993.jpg",
+      "manifest_models": "IPH 12PM",
+      "manifest_capacities": "128GB",
+      "manifest_colors": "GPH, SLV, GLD, BLU",
+      "manifest_part_numbers": "J900C, J903C, S902C, J901C, S903C, J902C, S900C, S901C"
+    },
+    {
+      "listing_id": 231959,
+      "sku": "CT0079779A",
+      "grade": "C(T)",
+      "units": 160,
+      "end_time": "2025-06-19T18:10:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone12promax_3995.jpg",
+      "manifest_models": "IPH 12PM",
+      "manifest_capacities": "256GB",
+      "manifest_colors": "BLU, SLV, GLD, GPH",
+      "manifest_part_numbers": "J905C, J907C, J904C, S907C, J906C, S906C, S904C"
+    },
+    {
+      "listing_id": 231842,
+      "sku": "CT0079862A",
+      "grade": "B+(T)",
+      "units": 67,
+      "end_time": "2025-06-19T18:11:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone12promax_3994.jpg",
+      "manifest_models": "IPH 12PM",
+      "manifest_capacities": "512GB, 128GB, 256GB",
+      "manifest_colors": "GPH, SLV, GLD, BLU",
+      "manifest_part_numbers": "J909C, J903C, S911C, J904C, S910C, S907C, S906C, S905C, J908C, U905C, U907C, S908C, U900C, J907C, A900C, J910C, S903C, S904C, J900C, S902C, J902C"
+    },
+    {
+      "listing_id": 231972,
+      "sku": "CT0079948A",
+      "grade": "B(T)",
+      "units": 25,
+      "end_time": "2025-06-19T18:12:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone12promax_3995.jpg",
+      "manifest_models": "IPH 12PM",
+      "manifest_capacities": "512GB, 128GB, 256GB",
+      "manifest_colors": "BLU, SLV, GLD, GPH",
+      "manifest_part_numbers": "J900C, J903C, J907C, J904C, J905C, J911C, J901C, J906C, S903C, S904C, J902C, J908C"
+    },
+    {
+      "listing_id": 231989,
+      "sku": "CT0079958A",
+      "grade": "C(T)",
+      "units": 25,
+      "end_time": "2025-06-19T18:13:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone12promax_3995.jpg",
+      "manifest_models": "IPH 12PM",
+      "manifest_capacities": "512GB",
+      "manifest_colors": "BLU, SLV, GLD, GPH",
+      "manifest_part_numbers": "S908C, E908C, J910C, J911C, J909C, J908C"
+    }
+  ],
+  "iPhone 13": [
+    {
+      "listing_id": 232022,
+      "sku": "CT0079762A",
+      "grade": "C(T)",
+      "units": 531,
+      "end_time": "2025-06-19T18:04:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone13_2006.jpg",
+      "manifest_models": "IPH 13",
+      "manifest_capacities": "128GB",
+      "manifest_colors": "RED, MDN, STL, GRN, PNK, BLU",
+      "manifest_part_numbers": "S162D, E166D, A163D, E165D, A166D, J715D, J163D, E359D, J714D, J164D, A164D, A162D, J359D, S165D, E163D, S359D, E164D, E715D, J166D, A359D, J162D, J165D, A165D, E162D, S163D, S166D, S164D"
+    },
+    {
+      "listing_id": 231928,
+      "sku": "CT0079778A",
+      "grade": "B+(T)",
+      "units": 178,
+      "end_time": "2025-06-19T18:05:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone13_2005.jpg",
+      "manifest_models": "IPH 13",
+      "manifest_capacities": "128GB",
+      "manifest_colors": "RED, MDN, STL, GRN, PNK, BLU",
+      "manifest_part_numbers": "S162D, E166D, A163D, E165D, A166D, J715D, J163D, E359D, U164D, J164D, A164D, A162D, S165D, J359D, S359D, A715D, A359D, J162D, A714D, A165D, E162D, S163D, S166D"
+    },
+    {
+      "listing_id": 231920,
+      "sku": "CT0079792A",
+      "grade": "C(T)",
+      "units": 100,
+      "end_time": "2025-06-19T18:06:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone13_2005.jpg",
+      "manifest_models": "IPH 13",
+      "manifest_capacities": "256GB",
+      "manifest_colors": "RED, MDN, STL, GRN, PNK, BLU",
+      "manifest_part_numbers": "A167D, S168D, S170D, A171D, S167D, S171D, E167D, J167D, J360D, E170D, J168D, J170D, J169D, A169D, J171D"
+    },
+    {
+      "listing_id": 231987,
+      "sku": "CT0079914A",
+      "grade": "A+(T)",
+      "units": 33,
+      "end_time": "2025-06-19T18:07:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone13_2006.jpg",
+      "manifest_models": "IPH 13",
+      "manifest_capacities": "512GB, 128GB, 256GB",
+      "manifest_colors": "RED, MDN, STL, GRN, PNK, BLU",
+      "manifest_part_numbers": "S168D, S162D, E166D, A163D, A172D, E165D, A166D, A164D, A162D, J359D, J176D, E163D, E172D, S359D, S165D, S167D, J174D, A359D, J162D, A165D, S166D"
+    },
+    {
+      "listing_id": 231742,
+      "sku": "CT0079930A",
+      "grade": "B(T)",
+      "units": 29,
+      "end_time": "2025-06-19T18:08:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone13_2004.jpg",
+      "manifest_models": "IPH 13",
+      "manifest_capacities": "256GB",
+      "manifest_colors": "RED, MDN, STL, PNK, BLU",
+      "manifest_part_numbers": "A167D, A171D, S171D, J167D, E167D, A168D, J168D, J170D, A169D, J171D"
+    }
+  ],
+  "iPhone 13 Mini": [
+    {
+      "listing_id": 231863,
+      "sku": "CT0079940A",
+      "grade": "C(T)",
+      "units": 26,
+      "end_time": "2025-06-19T18:02:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone13mini_875.jpg",
+      "manifest_models": "IPH 13M",
+      "manifest_capacities": "512GB, 128GB",
+      "manifest_colors": "BLU, MDN, PNK",
+      "manifest_part_numbers": "S149D, E151D, J149D, J151D, S147D, J157D, J147D, S151D"
+    },
+    {
+      "listing_id": 231924,
+      "sku": "CT0080053A",
+      "grade": "B(T)",
+      "units": 5,
+      "end_time": "2025-06-19T18:03:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone13mini_875.jpg",
+      "manifest_models": "IPH 13M",
+      "manifest_capacities": "512GB, 128GB",
+      "manifest_colors": "PNK, BLU, MDN, STL",
+      "manifest_part_numbers": "A147D, E148D, J149D, J151D, J157D"
+    }
+  ],
+  "iPhone 13 Pro": [
+    {
+      "listing_id": 232039,
+      "sku": "CT0079787A",
+      "grade": "C(T)",
+      "units": 114,
+      "end_time": "2025-06-19T17:58:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone13pro_1936.jpg",
+      "manifest_models": "IPH 13P",
+      "manifest_capacities": "128GB",
+      "manifest_colors": "SLV, GRN, GLD, BLU, GPH",
+      "manifest_part_numbers": "A178D, S178D, J179D, E179D, J362D, E180D, S177D, A177D, J177D, J178D, A180D, J180D, S179D, S180D"
+    },
+    {
+      "listing_id": 231949,
+      "sku": "CT0079795A",
+      "grade": "C(T)",
+      "units": 96,
+      "end_time": "2025-06-19T17:59:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone13pro_1935.jpg",
+      "manifest_models": "IPH 13P",
+      "manifest_capacities": "256GB",
+      "manifest_colors": "SLV, GRN, GLD, BLU, GPH",
+      "manifest_part_numbers": "J181D, A181D, S181D, J182D, S182D, J363D, E184D, S183D, S184D, E181D, A184D, A183D, A363D, J184D, J183D, E182D, E363D"
+    },
+    {
+      "listing_id": 231996,
+      "sku": "CT0079817A",
+      "grade": "C(T)",
+      "units": 62,
+      "end_time": "2025-06-19T18:00:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone13pro_1935.jpg",
+      "manifest_models": "IPH 13P",
+      "manifest_capacities": "512GB",
+      "manifest_colors": "SLV, GRN, GLD, GPH, BLU",
+      "manifest_part_numbers": "J187D, J188D, A186D, J185D, E188D, S188D, J364D, E186D, S185D, J186D, E185D, A185D"
+    },
+    {
+      "listing_id": 231825,
+      "sku": "CT0079990A",
+      "grade": "B+(T)",
+      "units": 18,
+      "end_time": "2025-06-19T18:01:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone13pro_1934.jpg",
+      "manifest_models": "IPH 13P",
+      "manifest_capacities": "512GB, 128GB, 256GB",
+      "manifest_colors": "GRN, BLU, SLV, GPH",
+      "manifest_part_numbers": "A362D, A178D, A181D, S181D, J182D, J362D, A177D, E181D, J177D, E364D, A180D"
+    }
+  ],
+  "iPhone 13 Pro Max": [
+    {
+      "listing_id": 231968,
+      "sku": "CT0079766A",
+      "grade": "C(T)",
+      "units": 360,
+      "end_time": "2025-06-19T17:55:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone13promax_2603.jpg",
+      "manifest_models": "IPH 13PM",
+      "manifest_capacities": "128GB",
+      "manifest_colors": "SLV, GRN, GLD, BLU, GPH",
+      "manifest_part_numbers": "A194D, J194D, E195D, J366D, E366D, J193D, A193D, S194D, E194D, J196D, E196D, A195D, A196D, S196D, J195D, E193D, A366D, S195D, S193D"
+    },
+    {
+      "listing_id": 231782,
+      "sku": "CT0079768A",
+      "grade": "C(T)",
+      "units": 261,
+      "end_time": "2025-06-19T17:56:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone13promax_2601.jpg",
+      "manifest_models": "IPH 13PM",
+      "manifest_capacities": "256GB",
+      "manifest_colors": "SLV, GRN, GLD, BLU, GPH",
+      "manifest_part_numbers": "J199D, J198D, J200D, A367D, A199D, J197D, J367D, S199D, S200D, E200D, E197D, E198D, S197D, E199D, A200D, A197D"
+    },
+    {
+      "listing_id": 231983,
+      "sku": "CT0079820A",
+      "grade": "C(T)",
+      "units": 58,
+      "end_time": "2025-06-19T17:57:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone13promax_2603.jpg",
+      "manifest_models": "IPH 13PM",
+      "manifest_capacities": "512GB",
+      "manifest_colors": "SLV, GRN, GLD, GPH, BLU",
+      "manifest_part_numbers": "J201D, J204D, J202D, J368D, S203D, A368D, J203D, E201D, S201D"
+    }
+  ],
+  "iPhone 14": [
+    {
+      "listing_id": 231882,
+      "sku": "CT0079761A",
+      "grade": "C(T)",
+      "units": 742,
+      "end_time": "2025-06-19T17:44:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14_897.jpg",
+      "manifest_models": "IPH 14",
+      "manifest_capacities": "128GB",
+      "manifest_colors": "RED, MDN, STL, YEL, PUR, BLU",
+      "manifest_part_numbers": "E483D, A798D, J484D, E482D, E481D, A484D, A482D, S484D, E484D, J483D, S481D, J482D, A483D, A481D, J481D, U481D, E485D, S483D, J798D, J485D, A485D, S485D"
+    },
+    {
+      "listing_id": 231775,
+      "sku": "CT0079799A",
+      "grade": "B+(T)",
+      "units": 85,
+      "end_time": "2025-06-19T17:45:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14_896.jpg",
+      "manifest_models": "IPH 14",
+      "manifest_capacities": "128GB",
+      "manifest_colors": "RED, MDN, STL, YEL, PUR, BLU",
+      "manifest_part_numbers": "J482D, A484D, S483D, A482D, E481D, A483D, A798D, J483D, J485D, A481D, J481D, U481D, A485D, S485D"
+    },
+    {
+      "listing_id": 231944,
+      "sku": "CT0079805A",
+      "grade": "A+(T)",
+      "units": 75,
+      "end_time": "2025-06-19T17:46:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14_898.jpg",
+      "manifest_models": "IPH 14",
+      "manifest_capacities": "128GB",
+      "manifest_colors": "RED, MDN, STL, YEL, PUR, BLU",
+      "manifest_part_numbers": "A484D, A482D, S484D, E481D, A483D, E484D, E483D, A798D, J484D, J485D, J483D, A481D, J481D, U481D, A485D, E485D, S485D"
+    },
+    {
+      "listing_id": 231862,
+      "sku": "CT0079806A",
+      "grade": "C(T)",
+      "units": 74,
+      "end_time": "2025-06-19T17:47:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14_897.jpg",
+      "manifest_models": "APL IPH 14 256GB, IPH 14",
+      "manifest_capacities": "256GB",
+      "manifest_colors": "RED, MDN, STL, YEL, PUR, BLU",
+      "manifest_part_numbers": "J799D, J486D, J488D, A488D, E799D, E487D, A487D, E486D, J489D, A490D, S490D, E490D, A799D, J487D, A486D, J490D, E488D, S486D"
+    },
+    {
+      "listing_id": 231765,
+      "sku": "CT0079812A",
+      "grade": "B(T)",
+      "units": 65,
+      "end_time": "2025-06-19T17:48:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14_896.jpg",
+      "manifest_models": "IPH 14",
+      "manifest_capacities": "128GB",
+      "manifest_colors": "RED, YEL, MDN, STL, PUR, BLU",
+      "manifest_part_numbers": "J482D, A484D, A482D, J798D, A483D, A798D, J484D, J485D, J483D, A481D, J481D, E482D, A485D, E481D"
+    },
+    {
+      "listing_id": 231789,
+      "sku": "CT0079980A",
+      "grade": "B+(T)",
+      "units": 19,
+      "end_time": "2025-06-19T17:49:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14_896.jpg",
+      "manifest_models": "IPH 14",
+      "manifest_capacities": "512GB, 128GB, 256GB",
+      "manifest_colors": "RED, MDN, STL, PUR, BLU",
+      "manifest_part_numbers": "A495D, E492D, A494D, S487D, J493D, A481D, A491D, A492D, A486D, E491D"
+    },
+    {
+      "listing_id": 231795,
+      "sku": "CT0079984A",
+      "grade": "A+(T)",
+      "units": 19,
+      "end_time": "2025-06-19T17:50:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14_896.jpg",
+      "manifest_models": "IPH 14",
+      "manifest_capacities": "512GB, 256GB",
+      "manifest_colors": "RED, MDN, STL, PUR, BLU",
+      "manifest_part_numbers": "A493D, A495D, A489D, A487D, S490D, J491D, E490D, A490D, J495D, J493D, A486D, E488D"
+    },
+    {
+      "listing_id": 232001,
+      "sku": "CT0079993A",
+      "grade": "AA+(T)",
+      "units": 17,
+      "end_time": "2025-06-19T17:51:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14_898.jpg",
+      "manifest_models": "IPH 14",
+      "manifest_capacities": "512GB, 128GB, 256GB",
+      "manifest_colors": "RED, MDN, YEL, STL, PUR, BLU",
+      "manifest_part_numbers": "A493D, A484D, A482D, S798D, A487D, A798D, J485D, A481D, E485D, S485D"
+    }
+  ],
+  "iPhone 14 Plus": [
+    {
+      "listing_id": 232052,
+      "sku": "CT0079771A",
+      "grade": "C(T)",
+      "units": 222,
+      "end_time": "2025-06-19T17:41:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14plus_764.jpg",
+      "manifest_models": "IPH 14PL",
+      "manifest_capacities": "128GB",
+      "manifest_colors": "RED, MDN, STL, YEL, PUR, BLU",
+      "manifest_part_numbers": "A497D, E498D, A500D, E497D, S496D, J801D, J498D, A499D, J499D, S500D, J497D, A498D, E801D, A801D, A496D, S498D, E496D, J500D, J496D, S497D, E500D"
+    },
+    {
+      "listing_id": 231927,
+      "sku": "CT0079803A",
+      "grade": "C(T)",
+      "units": 76,
+      "end_time": "2025-06-19T17:42:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14plus_763.jpg",
+      "manifest_models": "IPH 14PL",
+      "manifest_capacities": "256GB",
+      "manifest_colors": "RED, MDN, STL, YEL, PUR, BLU",
+      "manifest_part_numbers": "E501D, J503D, J501D, E502D, A802D, J502D, A505D, S505D, J504D, A501D, A502D, E503D, J505D, A503D"
+    },
+    {
+      "listing_id": 231752,
+      "sku": "CT0079867A",
+      "grade": "B+(T)",
+      "units": 61,
+      "end_time": "2025-06-19T17:43:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14plus_762.jpg",
+      "manifest_models": "IPH 14PL",
+      "manifest_capacities": "128GB, 256GB",
+      "manifest_colors": "RED, MDN, STL, PUR, BLU",
+      "manifest_part_numbers": "A497D, J503D, A499D, A498D, J502D, A505D, E496D, A500D, S505D, A504D, J504D, A501D, A502D, A496D, J505D, A503D, S503D"
+    }
+  ],
+  "iPhone 14 Pro": [
+    {
+      "listing_id": 231961,
+      "sku": "CT0079763A",
+      "grade": "C(T)",
+      "units": 471,
+      "end_time": "2025-06-19T17:34:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14pro_992.jpg",
+      "manifest_models": "IPH 14P",
+      "manifest_capacities": "128GB",
+      "manifest_colors": "PUR, SLV, BLK, GLD",
+      "manifest_part_numbers": "J511D, E511D, S512D, A514D, A513D, E514D, A512D, S514D, E512D, D511D, S511D, J513D, S513D, J514D, E513D, J512D, A511D"
+    },
+    {
+      "listing_id": 232035,
+      "sku": "CT0079764A",
+      "grade": "C(T)",
+      "units": 458,
+      "end_time": "2025-06-19T17:35:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14pro_993.jpg",
+      "manifest_models": "IPH 14P",
+      "manifest_capacities": "256GB",
+      "manifest_colors": "PUR, SLV, BLK, GLD",
+      "manifest_part_numbers": "S518D, J517D, E518D, J515D, J516D, S515D, S517D, E515D, E516D, J518D, E517D, A515D, A516D, A518D, S516D, A517D"
+    },
+    {
+      "listing_id": 231787,
+      "sku": "CT0079780A",
+      "grade": "B+(T)",
+      "units": 151,
+      "end_time": "2025-06-19T17:36:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14pro_990.jpg",
+      "manifest_models": "IPH 14P",
+      "manifest_capacities": "128GB",
+      "manifest_colors": "PUR, SLV, BLK, GLD",
+      "manifest_part_numbers": "J511D, E511D, S512D, A513D, A514D, A512D, S514D, E514D, S511D, J513D, U514D, J514D, J512D, A511D"
+    },
+    {
+      "listing_id": 231890,
+      "sku": "CT0079789A",
+      "grade": "C(T)",
+      "units": 105,
+      "end_time": "2025-06-19T17:37:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14pro_991.jpg",
+      "manifest_models": "IPH 14P",
+      "manifest_capacities": "512GB",
+      "manifest_colors": "PUR, SLV, BLK, GLD",
+      "manifest_part_numbers": "S519D, J521D, A519D, E521D, J520D, J522D, J519D, A521D, E522D, E519D, A522D, S522D"
+    },
+    {
+      "listing_id": 232026,
+      "sku": "CT0079796A",
+      "grade": "B+(T)",
+      "units": 89,
+      "end_time": "2025-06-19T17:38:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14pro_992.jpg",
+      "manifest_models": "IPH 14P",
+      "manifest_capacities": "256GB",
+      "manifest_colors": "PUR, SLV, BLK, GLD",
+      "manifest_part_numbers": "S518D, J517D, E518D, J515D, E515D, A515D, A516D, A518D, S516D, A517D"
+    },
+    {
+      "listing_id": 231841,
+      "sku": "CT0079856A",
+      "grade": "B+(T)",
+      "units": 72,
+      "end_time": "2025-06-19T17:39:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14pro_991.jpg",
+      "manifest_models": "IPH 14P",
+      "manifest_capacities": "512GB, 1TB, 128GB, 256GB",
+      "manifest_colors": "PUR, BLK, GLD",
+      "manifest_part_numbers": "J526D, A525D, S519D, A523D, A514D, A519D, J522D, J523D, A515D, A522D"
+    },
+    {
+      "listing_id": 231887,
+      "sku": "CT0079873A",
+      "grade": "A+(T)",
+      "units": 53,
+      "end_time": "2025-06-19T17:40:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14pro_991.jpg",
+      "manifest_models": "IPH 14P",
+      "manifest_capacities": "512GB, 1TB, 128GB, 256GB",
+      "manifest_colors": "PUR, SLV, BLK, GLD",
+      "manifest_part_numbers": "A518D, S512D, A513D, A514D, A512D, S514D, S526D, A519D, E514D, S511D, A522D, E512D, J513D, A515D, J514D, E513D, A511D"
+    }
+  ],
+  "iPhone 14 Pro Max": [
+    {
+      "listing_id": 231917,
+      "sku": "CT0079758A",
+      "grade": "C(T)",
+      "units": 381,
+      "end_time": "2025-06-19T17:19:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14promax_1126.jpg",
+      "manifest_models": "IPH 14PM",
+      "manifest_capacities": "128GB",
+      "manifest_colors": "PUR, SLV, BLK, GLD",
+      "manifest_part_numbers": "S530D, S529D, J527D, A529D, E528D, E530D, J528D, J529D, S527D, E529D, A530D, A528D, J530D, S528D, A527D, E527D"
+    },
+    {
+      "listing_id": 231755,
+      "sku": "CT0080076A",
+      "grade": "C(T)",
+      "units": 375,
+      "end_time": "2025-06-19T17:20:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14promax_1125.jpg",
+      "manifest_models": "IPH 14PM",
+      "manifest_capacities": "128GB",
+      "manifest_colors": "PUR, SLV, BLK, GLD",
+      "manifest_part_numbers": "S529D, J527D, E528D, A529D, E530D, J528D, J529D, S527D, E529D, A530D, A528D, J530D, A527D, E527D"
+    },
+    {
+      "listing_id": 231980,
+      "sku": "CT0080077A",
+      "grade": "C(T)",
+      "units": 375,
+      "end_time": "2025-06-19T17:21:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14promax_1127.jpg",
+      "manifest_models": "IPH 14PM",
+      "manifest_capacities": "128GB",
+      "manifest_colors": "PUR, SLV, BLK, GLD",
+      "manifest_part_numbers": "S530D, S529D, J527D, A529D, E528D, E530D, J528D, J529D, S527D, E529D, A530D, A528D, J530D, S528D, A527D, E527D"
+    },
+    {
+      "listing_id": 232036,
+      "sku": "CT0079759A",
+      "grade": "C(T)",
+      "units": 359,
+      "end_time": "2025-06-19T17:22:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14promax_1128.jpg",
+      "manifest_models": "IPH 14PM",
+      "manifest_capacities": "256GB",
+      "manifest_colors": "PUR, SLV, BLK, GLD",
+      "manifest_part_numbers": "J531D, A534D, S532D, S531D, E531D, E532D, A533D, E534D, E533D, S533D, J533D, S534D, A531D, A532D, J532D, J534D"
+    },
+    {
+      "listing_id": 231860,
+      "sku": "CT0080079A",
+      "grade": "C(T)",
+      "units": 350,
+      "end_time": "2025-06-19T17:23:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14promax_1126.jpg",
+      "manifest_models": "IPH 14PM",
+      "manifest_capacities": "256GB",
+      "manifest_colors": "PUR, SLV, BLK, GLD",
+      "manifest_part_numbers": "J531D, A534D, S531D, E531D, E534D, E532D, E533D, A533D, S533D, J533D, S534D, A531D, A532D, J532D, J534D"
+    },
+    {
+      "listing_id": 231861,
+      "sku": "CT0080078A",
+      "grade": "C(T)",
+      "units": 350,
+      "end_time": "2025-06-19T17:24:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14promax_1126.jpg",
+      "manifest_models": "IPH 14PM",
+      "manifest_capacities": "256GB",
+      "manifest_colors": "PUR, SLV, BLK, GLD",
+      "manifest_part_numbers": "J531D, A534D, S531D, E531D, E534D, E532D, A533D, E533D, S533D, J533D, S534D, A531D, A532D, J532D, J534D"
+    },
+    {
+      "listing_id": 231977,
+      "sku": "CT0079770A",
+      "grade": "B+(T)",
+      "units": 244,
+      "end_time": "2025-06-19T17:25:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14promax_1127.jpg",
+      "manifest_models": "IPH 14PM",
+      "manifest_capacities": "128GB",
+      "manifest_colors": "PUR, SLV, BLK, GLD",
+      "manifest_part_numbers": "S530D, E527D, J527D, A529D, E530D, J528D, J529D, S527D, A530D, A528D, J530D, S528D, A527D, S529D"
+    },
+    {
+      "listing_id": 231966,
+      "sku": "CT0079774A",
+      "grade": "C(T)",
+      "units": 180,
+      "end_time": "2025-06-19T17:26:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14promax_1127.jpg",
+      "manifest_models": "IPH 14PM",
+      "manifest_capacities": "512GB",
+      "manifest_colors": "PUR, SLV, BLK, GLD",
+      "manifest_part_numbers": "J537D, A535D, A538D, J536D, S538D, E535D, A537D, S536D, E536D, E538D, A536D, J538D, E537D, S535D, J535D"
+    },
+    {
+      "listing_id": 231954,
+      "sku": "CT0079834A",
+      "grade": "B+(T)",
+      "units": 175,
+      "end_time": "2025-06-19T17:27:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14promax_1127.jpg",
+      "manifest_models": "IPH 14PM",
+      "manifest_capacities": "512GB, 128GB, 256GB",
+      "manifest_colors": "PUR, SLV, BLK, GLD",
+      "manifest_part_numbers": "J537D, A534D, A535D, A538D, S530D, U530D, S538D, A537D, E538D, A530D, A531D, A536D, S537D, S535D, A527D"
+    },
+    {
+      "listing_id": 231806,
+      "sku": "CT0079781A",
+      "grade": "B+(T)",
+      "units": 140,
+      "end_time": "2025-06-19T17:28:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14promax_1125.jpg",
+      "manifest_models": "IPH 14PM",
+      "manifest_capacities": "256GB",
+      "manifest_colors": "PUR, SLV, BLK, GLD",
+      "manifest_part_numbers": "A534D, J531D, S531D, E531D, E534D, A533D, J533D, S534D, A531D, A532D, J532D, J534D"
+    },
+    {
+      "listing_id": 231940,
+      "sku": "CT0079846A",
+      "grade": "A+(T)",
+      "units": 88,
+      "end_time": "2025-06-19T17:29:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14promax_1127.jpg",
+      "manifest_models": "IPH 14PM",
+      "manifest_capacities": "512GB, 128GB, 256GB",
+      "manifest_colors": "PUR, SLV, BLK, GLD",
+      "manifest_part_numbers": "E528D, E527D, S532D, J527D, S538D, A529D, A537D, A536D, J530D, J534D, A534D, S531D, E529D, A530D, A532D, A528D, S537D, A527D, A535D, A538D, E530D, S534D, A531D, S528D"
+    },
+    {
+      "listing_id": 231741,
+      "sku": "CT0079814A",
+      "grade": "C(T)",
+      "units": 64,
+      "end_time": "2025-06-19T17:30:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14promax_1125.jpg",
+      "manifest_models": "IPH 14PM",
+      "manifest_capacities": "1TB",
+      "manifest_colors": "PUR, SLV, BLK, GLD",
+      "manifest_part_numbers": "A541D, A539D, E540D, E541D, A542D, J539D, J541D, J542D, S539D, J540D"
+    },
+    {
+      "listing_id": 231976,
+      "sku": "CT0079819A",
+      "grade": "B+(T)",
+      "units": 61,
+      "end_time": "2025-06-19T17:31:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14promax_1127.jpg",
+      "manifest_models": "IPH 14PM",
+      "manifest_capacities": "1TB",
+      "manifest_colors": "PUR, SLV, BLK, GLD",
+      "manifest_part_numbers": "A541D, A539D, E541D, A542D, S542D, J539D, S539D, J541D, E542D, J542D, A540D, E539D, J540D"
+    },
+    {
+      "listing_id": 231964,
+      "sku": "CT0079988A",
+      "grade": "B(T)",
+      "units": 18,
+      "end_time": "2025-06-19T17:32:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14promax_1127.jpg",
+      "manifest_models": "IPH 14PM",
+      "manifest_capacities": "512GB, 1TB, 256GB",
+      "manifest_colors": "PUR, SLV, BLK, GLD",
+      "manifest_part_numbers": "A534D, J531D, A535D, S531D, E532D, A533D, A537D, J538D, J542D, J532D, J535D, J534D"
+    },
+    {
+      "listing_id": 231811,
+      "sku": "CT0080062A",
+      "grade": "C(T)",
+      "units": 2,
+      "end_time": "2025-06-19T17:33:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone14promax_1125.jpg",
+      "manifest_models": "IPH 14PM",
+      "manifest_capacities": "128GB, 256GB",
+      "manifest_colors": "PUR",
+      "manifest_part_numbers": "J530D, J534D"
+    }
+  ],
+  "iPhone 15": [
+    {
+      "listing_id": 231743,
+      "sku": "CT0079830A",
+      "grade": "C(T)",
+      "units": 321,
+      "end_time": "2025-06-19T17:13:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15_378.jpg",
+      "manifest_models": "IPH 15",
+      "manifest_capacities": "512GB, 128GB",
+      "manifest_colors": "YEL, GRN, BLK, PNK, BLU",
+      "manifest_part_numbers": "J864D, U864D, U866D, U863D, A864D, E865D, U865D, S874D, E864D, E866D, U867D, J867D, A867D, J866D, J876D, A866D, E863D, S864D, A863D, J873D, J863D, J874D, S863D, A877D, E873D"
+    },
+    {
+      "listing_id": 232014,
+      "sku": "CT0079798A",
+      "grade": "C(T)",
+      "units": 87,
+      "end_time": "2025-06-19T17:14:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15_380.jpg",
+      "manifest_models": "IPH 15, APL IPH 15",
+      "manifest_capacities": "256GB",
+      "manifest_colors": "YEL, GRN, BLK, PNK, BLU",
+      "manifest_part_numbers": "E870D, A871D, J871D, A868D, E869D, S871D, J869D, A869D, E868D, J872D, S868D, U868D, J870D, J868D"
+    },
+    {
+      "listing_id": 231943,
+      "sku": "CT0079850A",
+      "grade": "B+(T)",
+      "units": 82,
+      "end_time": "2025-06-19T17:15:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15_380.jpg",
+      "manifest_models": "IPH 15, APL IPH 15",
+      "manifest_capacities": "512GB, 128GB, 256GB",
+      "manifest_colors": "YEL, GRN, BLK, PNK, BLU",
+      "manifest_part_numbers": "A863D, J864D, U867D, U873D, J863D, E869D, S864D, A867D, J866D, A866D, U866D, U863D, A864D, U865D, S866D, E863D, E873D"
+    },
+    {
+      "listing_id": 231772,
+      "sku": "CT0079800A",
+      "grade": "C(T)",
+      "units": 80,
+      "end_time": "2025-06-19T17:16:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15_378.jpg",
+      "manifest_models": "IPH 15",
+      "manifest_capacities": "128GB",
+      "manifest_colors": "YEL, GRN, BLK, PNK, BLU",
+      "manifest_part_numbers": "J864D, J867D, J863D, J865D, J866D, A866D, A864D, S866D, E863D"
+    },
+    {
+      "listing_id": 231902,
+      "sku": "CT0079895A",
+      "grade": "B(T)",
+      "units": 42,
+      "end_time": "2025-06-19T17:17:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15_379.jpg",
+      "manifest_models": "IPH 15",
+      "manifest_capacities": "128GB, 256GB",
+      "manifest_colors": "YEL, GRN, BLK, PNK, BLU",
+      "manifest_part_numbers": "A863D, J864D, U867D, J863D, U864D, J865D, J866D, A866D, U866D, U863D, A864D, E863D, J868D"
+    },
+    {
+      "listing_id": 231798,
+      "sku": "CT0079901A",
+      "grade": "A+(T)",
+      "units": 37,
+      "end_time": "2025-06-19T17:18:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15_378.jpg",
+      "manifest_models": "IPH 15",
+      "manifest_capacities": "128GB, 256GB",
+      "manifest_colors": "GRN, BLK, YEL, PNK",
+      "manifest_part_numbers": "A863D, S869D, U867D, A868D, A865D, A867D, U864D, A869D, J863D, U863D, J868D"
+    }
+  ],
+  "iPhone 15 Plus": [
+    {
+      "listing_id": 231836,
+      "sku": "CT0079835A",
+      "grade": "C(T)",
+      "units": 167,
+      "end_time": "2025-06-19T17:07:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15plus_384.jpg",
+      "manifest_models": "APL IPH 15PL, IPH 15PL",
+      "manifest_capacities": "512GB, 128GB",
+      "manifest_colors": "YEL, BLK, BLU, PNK",
+      "manifest_part_numbers": "E878D, E879D, S878D, J879D, J891D, A881D, J878D, A879D, J881D, A878D, E881D, J880D, S879D"
+    },
+    {
+      "listing_id": 231854,
+      "sku": "CT0079786A",
+      "grade": "C(T)",
+      "units": 117,
+      "end_time": "2025-06-19T17:08:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15plus_384.jpg",
+      "manifest_models": "IPH 15PL",
+      "manifest_capacities": "256GB",
+      "manifest_colors": "YEL, GRN, BLK, PNK, BLU",
+      "manifest_part_numbers": "E883D, J885D, S886D, J887D, J886D, J883D, E887D, A884D, E884D, A886D, A883D, J884D, A887D"
+    },
+    {
+      "listing_id": 231916,
+      "sku": "CT0079790A",
+      "grade": "C(T)",
+      "units": 105,
+      "end_time": "2025-06-19T17:09:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15plus_384.jpg",
+      "manifest_models": "IPH 15PL, IPH 15PL 128GB",
+      "manifest_capacities": "128GB",
+      "manifest_colors": "YEL, GRN, BLK, PNK, BLU",
+      "manifest_part_numbers": "E879D, J879D, A881D, J878D, J881D, J882D, J880D, S879D"
+    },
+    {
+      "listing_id": 231828,
+      "sku": "CT0079890A",
+      "grade": "B+(T)",
+      "units": 47,
+      "end_time": "2025-06-19T17:10:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15plus_383.jpg",
+      "manifest_models": "IPH 15PL",
+      "manifest_capacities": "512GB, 128GB",
+      "manifest_colors": "YEL, BLK, BLU, PNK",
+      "manifest_part_numbers": "U878D, A889D, J889D, A881D, J879D, J881D, A879D, A890D, A878D, S880D, J878D"
+    },
+    {
+      "listing_id": 231883,
+      "sku": "CT0079899A",
+      "grade": "B(T)",
+      "units": 39,
+      "end_time": "2025-06-19T17:11:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15plus_384.jpg",
+      "manifest_models": "IPH 15PL",
+      "manifest_capacities": "128GB, 256GB",
+      "manifest_colors": "YEL, GRN, BLK, PNK, BLU",
+      "manifest_part_numbers": "A885D, A881D, J879D, J886D, J881D, J878D, A879D, A884D, A878D, A883D, J884D, A887D"
+    },
+    {
+      "listing_id": 231831,
+      "sku": "CT0079900A",
+      "grade": "A+(T)",
+      "units": 38,
+      "end_time": "2025-06-19T17:12:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15plus_384.jpg",
+      "manifest_models": "APL IPH 15PL, IPH 15PL",
+      "manifest_capacities": "512GB, 128GB, 256GB",
+      "manifest_colors": "YEL, BLK, BLU, PNK",
+      "manifest_part_numbers": "E883D, S883D, A880D, E879D, A881D, J886D, J879D, A879D, A878D, A884D, S891D, E884D, A886D, A883D, E886D"
+    }
+  ],
+  "iPhone 15 Pro": [
+    {
+      "listing_id": 231953,
+      "sku": "CT0079767A",
+      "grade": "C(T)",
+      "units": 335,
+      "end_time": "2025-06-19T16:59:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15pro_447.jpg",
+      "manifest_models": "IPH 15P",
+      "manifest_capacities": "256GB",
+      "manifest_colors": "WHT, BLU, BLK, NAT",
+      "manifest_part_numbers": "J897D, S897D, A900D, J900D, A897D, A898D, E898D, S900D, A899D, J899D, S898D, E897D, J898D, E899D, E900D"
+    },
+    {
+      "listing_id": 232008,
+      "sku": "CT0079833A",
+      "grade": "C(T)",
+      "units": 201,
+      "end_time": "2025-06-19T17:00:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15pro_447.jpg",
+      "manifest_models": "IPH 15P",
+      "manifest_capacities": "1TB, 128GB",
+      "manifest_colors": "WHT, NAT, BLK, BLU",
+      "manifest_part_numbers": "J893D, S893D, A894D, J907D, J908D, A895D, A893D, E893D, S895D, S905D, E896D, E908D, J906D, J895D, E907D, A908D, J894D, E905D, A905D, J905D, A896D, E895D, J896D"
+    },
+    {
+      "listing_id": 232004,
+      "sku": "CT0079782A",
+      "grade": "C(T)",
+      "units": 134,
+      "end_time": "2025-06-19T17:01:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15pro_447.jpg",
+      "manifest_models": "IPH 15P",
+      "manifest_capacities": "128GB",
+      "manifest_colors": "WHT, BLU, BLK, NAT",
+      "manifest_part_numbers": "J893D, J894D, E895D, A896D, E894D, A895D, J895D, E893D, J896D"
+    },
+    {
+      "listing_id": 231803,
+      "sku": "CT0079797A",
+      "grade": "C(T)",
+      "units": 88,
+      "end_time": "2025-06-19T17:02:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15pro_445.jpg",
+      "manifest_models": "IPH 15P",
+      "manifest_capacities": "512GB",
+      "manifest_colors": "BLU, NAT, BLK, WHT",
+      "manifest_part_numbers": "A903D, S901D, A904D, E901D, E902D, J901D, J902D, S903D, J904D, A902D, E904D, J903D, A901D"
+    },
+    {
+      "listing_id": 231844,
+      "sku": "CT0079861A",
+      "grade": "B+(T)",
+      "units": 68,
+      "end_time": "2025-06-19T17:03:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15pro_446.jpg",
+      "manifest_models": "IPH 15P",
+      "manifest_capacities": "512GB, 1TB, 128GB",
+      "manifest_colors": "WHT, NAT, BLK, BLU",
+      "manifest_part_numbers": "J893D, E894D, S893D, J902D, S902D, A902D, S904D, A906D, A895D, A893D, J895D, A901D, U904D, A903D, A904D, A896D, J901D, J904D, E904D, J896D"
+    },
+    {
+      "listing_id": 231749,
+      "sku": "CT0079822A",
+      "grade": "B+(T)",
+      "units": 54,
+      "end_time": "2025-06-19T17:04:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15pro_445.jpg",
+      "manifest_models": "IPH 15P",
+      "manifest_capacities": "256GB",
+      "manifest_colors": "WHT, NAT, BLK, BLU",
+      "manifest_part_numbers": "J897D, S897D, A900D, J900D, A897D, A898D, E898D, A899D, J898D, E900D"
+    },
+    {
+      "listing_id": 232045,
+      "sku": "CT0079929A",
+      "grade": "B(T)",
+      "units": 29,
+      "end_time": "2025-06-19T17:05:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15pro_448.jpg",
+      "manifest_models": "IPH 15P",
+      "manifest_capacities": "512GB, 128GB, 256GB",
+      "manifest_colors": "WHT, BLU, BLK, NAT",
+      "manifest_part_numbers": "J893D, J897D, A900D, J900D, J894D, S896D, A903D, A898D, A896D, A894D, J895D, J898D, J903D, A901D, J896D"
+    },
+    {
+      "listing_id": 232033,
+      "sku": "CT0080006A",
+      "grade": "A+(T)",
+      "units": 15,
+      "end_time": "2025-06-19T17:06:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15pro_448.jpg",
+      "manifest_models": "IPH 15P",
+      "manifest_capacities": "1TB, 128GB, 256GB, 512GB",
+      "manifest_colors": "BLU, NAT, BLK, WHT",
+      "manifest_part_numbers": "U899D, A902D, A903D, A904D, J905D, A894D, J904D, A893D, A899D, A901D"
+    }
+  ],
+  "iPhone 15 Pro Max": [
+    {
+      "listing_id": 231764,
+      "sku": "CT0080081A",
+      "grade": "C(T)",
+      "units": 350,
+      "end_time": "2025-06-19T16:49:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15promax_484.jpg",
+      "manifest_models": "IPH 15PM",
+      "manifest_capacities": "256GB",
+      "manifest_colors": "WHT, NAT, BLK, BLU",
+      "manifest_part_numbers": "S911D, A909D, J909D, A911D, A910D, J911D, A912D, S909D, S912D, E910D, E912D, E909D, J910D, E911D, J912D"
+    },
+    {
+      "listing_id": 232043,
+      "sku": "CT0080080A",
+      "grade": "C(T)",
+      "units": 350,
+      "end_time": "2025-06-19T16:50:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15promax_487.jpg",
+      "manifest_models": "IPH 15PM",
+      "manifest_capacities": "256GB",
+      "manifest_colors": "WHT, BLU, BLK, NAT",
+      "manifest_part_numbers": "S911D, A909D, J909D, A911D, A910D, J911D, A912D, S909D, E910D, S912D, E912D, E909D, J910D, U912D, E911D, J912D"
+    },
+    {
+      "listing_id": 231843,
+      "sku": "CT0079760A",
+      "grade": "C(T)",
+      "units": 323,
+      "end_time": "2025-06-19T16:51:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15promax_485.jpg",
+      "manifest_models": "IPH 15PM",
+      "manifest_capacities": "256GB",
+      "manifest_colors": "WHT, BLU, BLK, NAT",
+      "manifest_part_numbers": "S911D, A909D, J909D, A911D, A910D, J911D, A912D, S909D, S912D, E910D, E912D, E909D, J910D, E911D, J912D, S910D"
+    },
+    {
+      "listing_id": 231897,
+      "sku": "CT0079773A",
+      "grade": "C(T)",
+      "units": 199,
+      "end_time": "2025-06-19T16:52:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15promax_485.jpg",
+      "manifest_models": "APL IPH 15PM, IPH 15PM",
+      "manifest_capacities": "512GB",
+      "manifest_colors": "WHT, NAT, BLK, BLU",
+      "manifest_part_numbers": "E913D, A915D, S916D, A914D, J502E, E916D, J915D, A916D, J913D, E915D, J914D, J916D, E914D, S914D, A913D, S913D"
+    },
+    {
+      "listing_id": 231931,
+      "sku": "CT0079783A",
+      "grade": "A+(T)",
+      "units": 130,
+      "end_time": "2025-06-19T16:53:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15promax_486.jpg",
+      "manifest_models": "IPH 15PM",
+      "manifest_capacities": "256GB",
+      "manifest_colors": "WHT, BLU, BLK, NAT",
+      "manifest_part_numbers": "A909D, J909D, A911D, A910D, J911D, A912D, S909D, S912D, E910D, E912D, U911D, E909D, U912D, E911D, J912D, S910D"
+    },
+    {
+      "listing_id": 231908,
+      "sku": "CT0080082A",
+      "grade": "B+(T)",
+      "units": 125,
+      "end_time": "2025-06-19T16:54:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15promax_485.jpg",
+      "manifest_models": "IPH 15PM",
+      "manifest_capacities": "256GB",
+      "manifest_colors": "WHT, NAT, BLK, BLU",
+      "manifest_part_numbers": "A909D, J909D, A911D, A910D, J911D, A912D, S909D, S912D, E909D, U911D, J912D, S910D"
+    },
+    {
+      "listing_id": 231872,
+      "sku": "CT0079769A",
+      "grade": "B+(T)",
+      "units": 121,
+      "end_time": "2025-06-19T16:55:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15promax_485.jpg",
+      "manifest_models": "IPH 15PM",
+      "manifest_capacities": "256GB",
+      "manifest_colors": "WHT, NAT, BLK, BLU",
+      "manifest_part_numbers": "A909D, J909D, A911D, A910D, J911D, J912D, A912D, S909D, E909D, J910D"
+    },
+    {
+      "listing_id": 231866,
+      "sku": "CT0079809A",
+      "grade": "B(T)",
+      "units": 69,
+      "end_time": "2025-06-19T16:56:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15promax_485.jpg",
+      "manifest_models": "IPH 15PM",
+      "manifest_capacities": "256GB",
+      "manifest_colors": "WHT, BLU, BLK, NAT",
+      "manifest_part_numbers": "A909D, J909D, A911D, A910D, J911D, A912D, S909D, E909D, J910D, E911D, J912D"
+    },
+    {
+      "listing_id": 231859,
+      "sku": "CT0079810A",
+      "grade": "B+(T)",
+      "units": 68,
+      "end_time": "2025-06-19T16:57:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15promax_485.jpg",
+      "manifest_models": "IPH 15PM",
+      "manifest_capacities": "512GB",
+      "manifest_colors": "WHT, BLK, BLU",
+      "manifest_part_numbers": "E913D, S916D, A913D, A914D, E916D, U916D, J913D, E914D, J914D, J916D, U913D, A916D, S913D"
+    },
+    {
+      "listing_id": 231971,
+      "sku": "CT0079938A",
+      "grade": "C(T)",
+      "units": 26,
+      "end_time": "2025-06-19T16:58:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone15promax_486.jpg",
+      "manifest_models": "APL IPH 15PM, IPH 15PM",
+      "manifest_capacities": "1TB, 256GB, 512GB",
+      "manifest_colors": "NAT, BLU, BLK, WHT",
+      "manifest_part_numbers": "S920D, J920D, E920D, J918D, J917D, J524E, J919D, J464E"
+    }
+  ],
+  "iPhone 16": [
+    {
+      "listing_id": 232028,
+      "sku": "CT0079851A",
+      "grade": "C(T)",
+      "units": 80,
+      "end_time": "2025-06-19T16:46:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone16_132.jpg",
+      "manifest_models": "IPH 16",
+      "manifest_capacities": "128GB, 256GB",
+      "manifest_colors": "GRN, BLK, PNK, WHT, BLU",
+      "manifest_part_numbers": "J588E, U591E, J587E, J593E, U587E, U588E, J591E, J592E, J589E, J586E, U584E, U593E, S584E, J584E, U586E, U585E, S591E, J585E"
+    },
+    {
+      "listing_id": 231865,
+      "sku": "CT0079865A",
+      "grade": "A+(T)",
+      "units": 64,
+      "end_time": "2025-06-19T16:47:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone16_131.jpg",
+      "manifest_models": "IPH 16",
+      "manifest_capacities": "512GB, 128GB, 256GB",
+      "manifest_colors": "GRN, BLK, PNK, WHT, BLU",
+      "manifest_part_numbers": "U589E, U591E, A585E, U590E, U587E, U588E, S587E, A586E, E589E, U584E, A592E, A591E, U586E, U585E, S584E, E590E, U596E"
+    },
+    {
+      "listing_id": 231758,
+      "sku": "CT0079876A",
+      "grade": "B+(T)",
+      "units": 51,
+      "end_time": "2025-06-19T16:48:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone16_130.jpg",
+      "manifest_models": "IPH 16, APL IPH 16",
+      "manifest_capacities": "512GB, 128GB, 256GB",
+      "manifest_colors": "GRN, BLK, PNK, BLU, WHT",
+      "manifest_part_numbers": "U592E, U589E, U591E, U595E, U590E, U587E, U588E, S587E, U594E, U593E, U584E, A591E, A584E, U586E, U585E"
+    }
+  ],
+  "iPhone 16 Plus": [
+    {
+      "listing_id": 231833,
+      "sku": "CT0079838A",
+      "grade": "C(T)",
+      "units": 125,
+      "end_time": "2025-06-19T16:39:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone16plus_129.jpg",
+      "manifest_models": "IPH 16PL",
+      "manifest_capacities": "512GB, 128GB, 256GB",
+      "manifest_colors": "GRN, BLK, PNK, WHT, BLU",
+      "manifest_part_numbers": "J606E, A599E, U605E, J601E, J600E, S600E, J607E, J610E, J602E, J611E, U601E, U610E, J604E, J599E, U603E, A604E, U602E, J609E, U608E, U599E, A608E, J613E, J603E, E602E, J608E, U606E, U604E, U600E"
+    },
+    {
+      "listing_id": 231768,
+      "sku": "CT0079893A",
+      "grade": "A+(T)",
+      "units": 44,
+      "end_time": "2025-06-19T16:40:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone16plus_128.jpg",
+      "manifest_models": "IPH 16PL",
+      "manifest_capacities": "512GB, 128GB, 256GB",
+      "manifest_colors": "GRN, BLK, PNK, WHT, BLU",
+      "manifest_part_numbers": "J611E, U601E, A601E, A606E, U599E, J604E, S601E, U603E, S600E, U602E, A599E, A602E"
+    },
+    {
+      "listing_id": 231853,
+      "sku": "CT0079955A",
+      "grade": "B+(T)",
+      "units": 25,
+      "end_time": "2025-06-19T16:41:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone16plus_129.jpg",
+      "manifest_models": "IPH 16PL",
+      "manifest_capacities": "512GB, 128GB, 256GB",
+      "manifest_colors": "GRN, BLK, PNK, BLU, WHT",
+      "manifest_part_numbers": "U601E, J606E, U610E, A599E, U608E, U599E, U609E, J601E, J599E, U603E, U607E, U602E, U613E, U604E, U600E"
+    }
+  ],
+  "iPhone 16 Pro": [
+    {
+      "listing_id": 231846,
+      "sku": "CT0079831A",
+      "grade": "C(T)",
+      "units": 300,
+      "end_time": "2025-06-19T16:35:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone16pro_159.jpg",
+      "manifest_models": "IPH 16P",
+      "manifest_capacities": "512GB, 1TB, 128GB, 256GB",
+      "manifest_colors": "WHT, NAT, BLK, GLD",
+      "manifest_part_numbers": "A616E, E615E, A618E, A620E, S628E, S621E, U618E, A615E, J618E, U614E, U616E, J623E, U619E, S623E, J629E, A617E, J615E, U617E, J626E, J620E, J624E, J627E, A614E, J625E, J617E, U622E, U620E, A624E, U615E, J614E, J616E, S618E, J628E, E620E, J619E, S619E, J622E, U629E, J621E, A621E, P619E, U621E"
+    },
+    {
+      "listing_id": 231930,
+      "sku": "CT0079853A",
+      "grade": "A+(T)",
+      "units": 78,
+      "end_time": "2025-06-19T16:36:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone16pro_160.jpg",
+      "manifest_models": "IPH 16P",
+      "manifest_capacities": "1TB, 128GB, 256GB, 512GB",
+      "manifest_colors": "WHT, NAT, BLK, GLD",
+      "manifest_part_numbers": "A616E, A618E, A620E, A622E, U618E, U614E, U616E, U619E, S620E, U617E, J627E, U622E, U620E, U615E, S618E, J616E, J628E, A623E, U623E, E616E, U621E, U624E"
+    },
+    {
+      "listing_id": 231750,
+      "sku": "CT0079858A",
+      "grade": "B+(T)",
+      "units": 69,
+      "end_time": "2025-06-19T16:37:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone16pro_158.jpg",
+      "manifest_models": "IPH 16P",
+      "manifest_capacities": "512GB, 1TB, 128GB, 256GB",
+      "manifest_colors": "WHT, NAT, BLK, GLD",
+      "manifest_part_numbers": "A620E, A622E, U618E, J618E, U614E, U616E, U619E, A629E, U617E, E618E, A614E, U622E, U620E, U615E, J614E, U629E, U623E, J621E, A628E, U621E, U624E, U626E"
+    },
+    {
+      "listing_id": 231747,
+      "sku": "CT0080000A",
+      "grade": "AA+(T)",
+      "units": 16,
+      "end_time": "2025-06-19T16:38:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone16pro_158.jpg",
+      "manifest_models": "IPH 16P",
+      "manifest_capacities": "128GB, 256GB",
+      "manifest_colors": "WHT, BLK, GLD",
+      "manifest_part_numbers": "U614E, U619E, U616E, U615E, A620E, J619E, U618E"
+    }
+  ],
+  "iPhone 16 Pro Max": [
+    {
+      "listing_id": 231840,
+      "sku": "CT0079829A",
+      "grade": "C(T)",
+      "units": 254,
+      "end_time": "2025-06-19T16:30:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone16promax_161.jpg",
+      "manifest_models": "IPH 16PM",
+      "manifest_capacities": "512GB, 1TB, 256GB",
+      "manifest_colors": "WHT, NAT, BLK, GLD",
+      "manifest_part_numbers": "J632E, J641E, U635E, J633E, A633E, J638E, J637E, J635E, J636E, J631E, A631E, J639E, U632E, U636E, J634E, U631E, U634E, S630E, U639E, J640E, J630E, U630E, U633E, S632E"
+    },
+    {
+      "listing_id": 231784,
+      "sku": "CT0080083A",
+      "grade": "C(T)",
+      "units": 250,
+      "end_time": "2025-06-19T16:31:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone16promax_160.jpg",
+      "manifest_models": "IPH 16PM",
+      "manifest_capacities": "512GB, 1TB, 256GB",
+      "manifest_colors": "WHT, NAT, BLK, GLD",
+      "manifest_part_numbers": "J632E, A636E, J641E, S631E, J633E, J638E, J637E, S638E, J635E, J636E, J631E, J639E, U632E, U636E, U637E, J634E, U631E, S630E, J640E, J630E, U630E, U633E, S633E"
+    },
+    {
+      "listing_id": 232016,
+      "sku": "CT0079872A",
+      "grade": "A+(T)",
+      "units": 53,
+      "end_time": "2025-06-19T16:32:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone16promax_162.jpg",
+      "manifest_models": "IPH 16PM",
+      "manifest_capacities": "512GB, 1TB, 256GB",
+      "manifest_colors": "WHT, NAT, BLK, GLD",
+      "manifest_part_numbers": "A632E, A636E, J641E, S634E, A638E, J637E, A635E, J635E, J636E, U632E, U636E, J634E, U634E, U631E, U639E, S630E, A634E, J630E, U630E, U633E, U638E"
+    },
+    {
+      "listing_id": 231942,
+      "sku": "CT0079883A",
+      "grade": "B+(T)",
+      "units": 50,
+      "end_time": "2025-06-19T16:33:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone16promax_162.jpg",
+      "manifest_models": "IPH 16PM",
+      "manifest_capacities": "512GB, 1TB, 256GB",
+      "manifest_colors": "WHT, GLD, BLK, NAT",
+      "manifest_part_numbers": "J632E, S638E, U635E, U636E, J635E, U640E, J636E, J630E, A631E, U630E, U633E, U637E, A633E, U632E, U631E, J638E, U638E"
+    },
+    {
+      "listing_id": 231903,
+      "sku": "CT0079906A",
+      "grade": "B(T)",
+      "units": 35,
+      "end_time": "2025-06-19T16:34:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone16promax_161.jpg",
+      "manifest_models": "IPH 16PM",
+      "manifest_capacities": "512GB, 1TB, 256GB",
+      "manifest_colors": "WHT, NAT, BLK, GLD",
+      "manifest_part_numbers": "J632E, J641E, U636E, J635E, J636E, J631E, J630E, J640E, J633E, U633E, U630E, J634E, U632E, A633E, U634E"
+    }
+  ],
+  "iPhone 16e": [
+    {
+      "listing_id": 231948,
+      "sku": "CT0079848A",
+      "grade": "B+(T)",
+      "units": 85,
+      "end_time": "2025-06-19T16:42:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone16e_32.jpg",
+      "manifest_models": "IPH 16E",
+      "manifest_capacities": "128GB, 256GB",
+      "manifest_colors": "BLK, WHT",
+      "manifest_part_numbers": "U866E, U869E, U868E, U867E, J866E"
+    },
+    {
+      "listing_id": 231793,
+      "sku": "CT0079860A",
+      "grade": "A+(T)",
+      "units": 68,
+      "end_time": "2025-06-19T16:43:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone16e_31.jpg",
+      "manifest_models": "PH 16E, IPH 16E",
+      "manifest_capacities": "512GB, 128GB, 256GB",
+      "manifest_colors": "BLK, WHT",
+      "manifest_part_numbers": "U866E, J870E, A866E, A867E, U869E, J867E, U868E, U867E, J866E"
+    },
+    {
+      "listing_id": 231827,
+      "sku": "CT0079826A",
+      "grade": "B+(T)",
+      "units": 50,
+      "end_time": "2025-06-19T16:44:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone16e_31.jpg",
+      "manifest_models": "IPH 16E",
+      "manifest_capacities": "128GB",
+      "manifest_colors": "BLK, WHT",
+      "manifest_part_numbers": "U866E, J867E, U867E"
+    },
+    {
+      "listing_id": 231761,
+      "sku": "CT0080003A",
+      "grade": "B(T)",
+      "units": 15,
+      "end_time": "2025-06-19T16:45:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone16e_31.jpg",
+      "manifest_models": "IPH 16E",
+      "manifest_capacities": "128GB, 256GB",
+      "manifest_colors": "BLK, WHT",
+      "manifest_part_numbers": "J866E, U866E, J868E, J867E, U868E, U867E"
+    }
+  ],
+  "iPhone 7 Plus": [
+    {
+      "listing_id": 231776,
+      "sku": "CT0079916A",
+      "grade": "C(T)",
+      "units": 32,
+      "end_time": "2025-06-19T18:40:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone8_3837.jpg",
+      "manifest_models": "IPH 7P, IPHONE 7P",
+      "manifest_capacities": "32GB, 128GB, 256GB",
+      "manifest_colors": "SLV, RED, RGD, BLK, GLD, JBK",
+      "manifest_part_numbers": "J496A, J494A, J493A, J490A, J497A, J491A, S503A, J488A, J489A, J950A, J517A, J945A"
+    }
+  ],
+  "iPhone 8": [
+    {
+      "listing_id": 231986,
+      "sku": "CT0079944A",
+      "grade": "C(T)",
+      "units": 25,
+      "end_time": "2025-06-19T18:39:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone8_3839.jpg",
+      "manifest_models": "IPH 8",
+      "manifest_capacities": "128GB, 256GB, 64GB",
+      "manifest_colors": "RED, SLV, SGY, GLD",
+      "manifest_part_numbers": "J164B, J503B, J161B, J163B, J162B, J111C, J160B, J165B"
+    }
+  ],
+  "iPhone 8 Plus": [
+    {
+      "listing_id": 231748,
+      "sku": "CT0079877A",
+      "grade": "C(T)",
+      "units": 51,
+      "end_time": "2025-06-19T18:38:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphone8plus_4148.jpg",
+      "manifest_models": "IPH 8P",
+      "manifest_capacities": "128GB, 256GB, 64GB",
+      "manifest_colors": "RED, SLV, SGY, GLD",
+      "manifest_part_numbers": "J501B, J502B, J167B, J171B, J170B, J166B, J109C, J169B, J168B"
+    }
+  ],
+  "iPhone SE (2020)": [
+    {
+      "listing_id": 231838,
+      "sku": "CT0079924A",
+      "grade": "C(T)",
+      "units": 30,
+      "end_time": "2025-06-19T18:23:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphonese2020_2272.jpg",
+      "manifest_models": "IPH SE20, IPH SE2",
+      "manifest_capacities": "128GB, 64GB",
+      "manifest_colors": "RED, BLK, WHT",
+      "manifest_part_numbers": "J480C, J477C, J481C, J817C, J482C, J479C, J478C"
+    }
+  ],
+  "iPhone SE (2022)": [
+    {
+      "listing_id": 231929,
+      "sku": "CT0079842A",
+      "grade": "C(T)",
+      "units": 101,
+      "end_time": "2025-06-19T17:52:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphonese2022_815.jpg",
+      "manifest_models": "IPH SE22",
+      "manifest_capacities": "128GB, 64GB",
+      "manifest_colors": "RED, MDN, STL",
+      "manifest_part_numbers": "J372D, S373D, E371D, J375D, E370D, J373D, J374D, A370D, A371D, S370D, E373D, J370D, J371D"
+    },
+    {
+      "listing_id": 231901,
+      "sku": "CT0079931A",
+      "grade": "B+(T)",
+      "units": 27,
+      "end_time": "2025-06-19T17:53:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphonese2022_815.jpg",
+      "manifest_models": "IP SE22 U, APL IPH SE22, IPH SE22",
+      "manifest_capacities": "128GB, 256GB, 64GB",
+      "manifest_colors": "RED, MDN, STL",
+      "manifest_part_numbers": "J372D, A376D, E370D, J373D, J392D, A370D, A371D, S370D, J370D, S372D"
+    },
+    {
+      "listing_id": 231875,
+      "sku": "CT0079934A",
+      "grade": "B(T)",
+      "units": 26,
+      "end_time": "2025-06-19T17:54:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphonese2022_815.jpg",
+      "manifest_models": "IPH SE22",
+      "manifest_capacities": "128GB, 256GB, 64GB",
+      "manifest_colors": "RED, MDN, STL",
+      "manifest_part_numbers": "J375D, J377D, J373D, J374D, A372D, A370D, S371D, J370D, S372D, J371D"
+    }
+  ],
+  "iPhone X": [
+    {
+      "listing_id": 231951,
+      "sku": "CT0079878A",
+      "grade": "C(T)",
+      "units": 51,
+      "end_time": "2025-06-19T18:36:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphonex_4671.jpg",
+      "manifest_models": "IPH X",
+      "manifest_capacities": "256GB, 64GB",
+      "manifest_colors": "SLV, SGY",
+      "manifest_part_numbers": "J173B, S172B, J172B, J253B, J175B, J174B, J256B"
+    },
+    {
+      "listing_id": 231905,
+      "sku": "CT0080071A",
+      "grade": "B+(T)",
+      "units": 1,
+      "end_time": "2025-06-19T18:37:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphonex_4670.jpg",
+      "manifest_models": "IPH X",
+      "manifest_capacities": "64GB",
+      "manifest_colors": "SGY",
+      "manifest_part_numbers": "J172B"
+    }
+  ],
+  "iPhone XR": [
+    {
+      "listing_id": 231878,
+      "sku": "CT0079863A",
+      "grade": "C(T)",
+      "units": 65,
+      "end_time": "2025-06-19T18:34:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphonexr_4534.jpg",
+      "manifest_models": "IPH XR",
+      "manifest_capacities": "128GB, 256GB, 64GB",
+      "manifest_colors": "COR, RED, YEL, BLK, WHT, BLU",
+      "manifest_part_numbers": "J592B, J850C, J598B, J590B, J599B, S602B, S596B, J844C, J595B, J596B, J605B, J589B, J602B, J603B, J601B, J600B"
+    },
+    {
+      "listing_id": 231932,
+      "sku": "CT0080002A",
+      "grade": "B(T)",
+      "units": 16,
+      "end_time": "2025-06-19T18:35:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphonexr_4535.jpg",
+      "manifest_models": "IPH XR",
+      "manifest_capacities": "128GB, 64GB",
+      "manifest_colors": "RED, YEL, BLK, WHT, BLU",
+      "manifest_part_numbers": "A589B, J592B, J593B, J590B, J599B, J844C, J598B, J596B, J589B, J600B"
+    }
+  ],
+  "iPhone XS": [
+    {
+      "listing_id": 231745,
+      "sku": "CT0079942A",
+      "grade": "C(T)",
+      "units": 25,
+      "end_time": "2025-06-19T18:32:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphonexs_3152.jpg",
+      "manifest_models": "IPH XS",
+      "manifest_capacities": "512GB, 256GB, 64GB",
+      "manifest_colors": "SLV, SGY, GLD",
+      "manifest_part_numbers": "J560B, J566B, J563B, J565B, J564B, S560B, J569B, J562B"
+    },
+    {
+      "listing_id": 231991,
+      "sku": "CT0079941A",
+      "grade": "B+(T)",
+      "units": 25,
+      "end_time": "2025-06-19T18:33:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphonexs_3153.jpg",
+      "manifest_models": "IPH XS",
+      "manifest_capacities": "512GB, 256GB, 64GB",
+      "manifest_colors": "SLV, SGY, GLD",
+      "manifest_part_numbers": "J560B, J566B, J563B, J565B, J561B, J564B, S560B, J562B"
+    }
+  ],
+  "iPhone XS Max": [
+    {
+      "listing_id": 231879,
+      "sku": "CT0079857A",
+      "grade": "C(T)",
+      "units": 70,
+      "end_time": "2025-06-19T18:30:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphonexsmax_4411.jpg",
+      "manifest_models": "IPH XSM",
+      "manifest_capacities": "512GB, 256GB, 64GB",
+      "manifest_colors": "SLV, SGY, GLD",
+      "manifest_part_numbers": "J574B, J576B, J580B, J586B, J573B, S580B, J571B, S574B, J575B"
+    },
+    {
+      "listing_id": 231785,
+      "sku": "CT0079996A",
+      "grade": "B+(T)",
+      "units": 17,
+      "end_time": "2025-06-19T18:31:00+00:00",
+      "image_url": "https://bstock.com/mobilecarrier/media/catalog/product/cache/0/image/210x/9df78eab33525d08d6e5fb8d27136e95/i/p/iphonexsmax_4410.jpg",
+      "manifest_models": "IPH XSM",
+      "manifest_capacities": "512GB, 256GB, 64GB",
+      "manifest_colors": "SLV, SGY, GLD",
+      "manifest_part_numbers": "J574B, J576B, J586B, J580B, J573B, J575B, J582B"
+    }
+  ]
+}

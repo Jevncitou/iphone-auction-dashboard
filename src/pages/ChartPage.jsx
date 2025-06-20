@@ -206,6 +206,7 @@ const styles = {
   },
   logo: {
     height: "50px",
+    filter: "invert(1)", // ✅ Ensures white logo stays visible on dark bg
   },
   title: {
     fontSize: "1.6rem",
