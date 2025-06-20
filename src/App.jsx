@@ -1,18 +1,18 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom'; // <-- changed to HashRouter
 import Dashboard from './pages/dashboard';
 import ChartPage from './pages/ChartPage';
-import UpcomingAuctions from './pages/UpcomingAuctions'; // ✅ Import added
+import UpcomingAuctions from './pages/UpcomingAuctions';
 
 function App() {
   return (
-    <BrowserRouter>
+    <Router>
       <Routes>
         <Route path="/" element={<Dashboard />} />
-        <Route path="/upcoming" element={<UpcomingPage />} />
-        {/* other routes */}
+        <Route path="/chart" element={<ChartPage />} />
+        <Route path="/upcoming" element={<UpcomingAuctions />} />
       </Routes>
-    </BrowserRouter>
+    </Router>
   );
 }
 
